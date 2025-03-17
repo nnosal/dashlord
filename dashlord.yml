@@ -7,7 +7,7 @@ tools:
   "404": true
   screenshot: true
   nmap: true
-  zap: true
+  zap: false
   wappalyzer: true
   http: true
   testssl: true
@@ -16,7 +16,7 @@ tools:
   nuclei: false
   updownio: false
   dependabot: true
-  codescan: true
+  codescan: false
   stats: false
   declaration-a11y: false
   ecoindex: true
