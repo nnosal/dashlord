@@ -346,7 +346,7 @@
               "ip"           : "nicolasnosal.fr/109.234.164.68",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "44 >= 30 days"
+              "finding"      : "38 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -514,7 +514,7 @@
               "ip"           : "nicolasnosal.fr/109.234.164.68",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1742208356"
+              "finding"      : "1742692421"
           }
 ,         {
               "id"           : "HSTS",
@@ -1070,6 +1070,6 @@
               "ip"           : "nicolasnosal.fr/109.234.164.68",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "142"
+              "finding"      : "108"
           }
 ]
