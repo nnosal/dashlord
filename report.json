@@ -13,7 +13,7 @@
         "testsPassed": 6,
         "testsQuantity": 10,
         "responseHeaders": {
-          "date": "Sun, 20 Apr 2025 01:15:01 GMT",
+          "date": "Sun, 27 Apr 2025 01:14:57 GMT",
           "content-type": "text/html",
           "transfer-encoding": "chunked",
           "connection": "close",
@@ -466,7 +466,7 @@
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "OK",
-        "finding": "68 >= 30 days"
+        "finding": "61 >= 30 days"
       },
       {
         "id": "cert_notBefore",
@@ -634,7 +634,7 @@
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "1745111764"
+        "finding": "1745716561"
       },
       {
         "id": "HSTS",
@@ -1183,7 +1183,7 @@
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "100"
+        "finding": "101"
       }
     ],
     "thirdparties": {
@@ -1194,7 +1194,7 @@
         },
         {
           "type": "unknown",
-          "url": "https://openstats.webservice-est.fr/matomo.php?action_name=Nicolas%20NOSAL%20-%20Bienvenue&idsite=3&rec=1&r=365686&h=1&m=12&s=41&url=https%3A%2F%2Fnicolasnosal.fr%2F&_id=132bb92f76f27a34&_idts=1745111562&_idvc=1&_idn=0&_refts=0&_viewts=1745111562&send_image=1&pdf=1&qt=0&realp=0&wma=0&dir=0&fla=0&java=0&gears=0&ag=0&cookie=1&res=800x600&gt_ms=176&pv_id=oobHl6"
+          "url": "https://openstats.webservice-est.fr/matomo.php?action_name=Nicolas%20NOSAL%20-%20Bienvenue&idsite=3&rec=1&r=888847&h=1&m=12&s=45&url=https%3A%2F%2Fnicolasnosal.fr%2F&_id=d575d4c415f836b6&_idts=1745716365&_idvc=1&_idn=0&_refts=0&_viewts=1745716365&send_image=1&pdf=1&qt=0&realp=0&wma=0&dir=0&fla=0&java=0&gears=0&ag=0&cookie=1&res=800x600&gt_ms=176&pv_id=ZES3yo"
         }
       ],
       "cookies": [
@@ -1203,7 +1203,7 @@
           "value": "1",
           "domain": "nicolasnosal.fr",
           "path": "/",
-          "expires": 1745113361,
+          "expires": 1745718165,
           "size": 15,
           "httpOnly": false,
           "secure": false,
@@ -1215,10 +1215,10 @@
         },
         {
           "name": "_pk_id.3.38bd",
-          "value": "132bb92f76f27a34.1745111562.1.1745111562.1745111562.",
+          "value": "d575d4c415f836b6.1745716365.1.1745716365.1745716365.",
           "domain": "nicolasnosal.fr",
           "path": "/",
-          "expires": 1779066762,
+          "expires": 1779671565,
           "size": 65,
           "httpOnly": false,
           "secure": false,
@@ -1232,7 +1232,7 @@
       "headers": {
         "content-encoding": "br",
         "content-type": "text/html",
-        "date": "Sun, 20 Apr 2025 01:12:39 GMT",
+        "date": "Sun, 27 Apr 2025 01:12:43 GMT",
         "last-modified": "Fri, 13 Jan 2023 15:40:48 GMT",
         "server": "o2switch-PowerBoost-v3",
         "vary": "Accept-Encoding"
@@ -1403,7 +1403,7 @@
       {
         "requestedUrl": "https://nicolasnosal.fr/",
         "finalUrl": "https://nicolasnosal.fr/",
-        "fetchTime": "2025-04-20T01:14:30.345Z",
+        "fetchTime": "2025-04-27T01:14:27.734Z",
         "runWarnings": [],
         "categories": {
           "performance": {
@@ -1414,7 +1414,7 @@
               "snapshot"
             ],
             "id": "performance",
-            "score": 0.91
+            "score": 0.94
           },
           "accessibility": {
             "title": "Accessibility",
@@ -1466,53 +1466,53 @@
             "description": "Collects all available metrics.",
             "score": null,
             "scoreDisplayMode": "informative",
-            "numericValue": 1879,
+            "numericValue": 1966,
             "numericUnit": "millisecond",
             "details": {
               "type": "debugdata",
               "items": [
                 {
-                  "firstContentfulPaint": 924,
-                  "firstMeaningfulPaint": 924,
-                  "largestContentfulPaint": 924,
-                  "interactive": 1879,
-                  "speedIndex": 2521,
-                  "totalBlockingTime": 366,
-                  "maxPotentialFID": 246,
+                  "firstContentfulPaint": 966,
+                  "firstMeaningfulPaint": 966,
+                  "largestContentfulPaint": 966,
+                  "interactive": 1966,
+                  "speedIndex": 2598,
+                  "totalBlockingTime": 286,
+                  "maxPotentialFID": 268,
                   "cumulativeLayoutShift": 0,
                   "cumulativeLayoutShiftMainFrame": 0,
                   "totalCumulativeLayoutShift": 0,
                   "observedTimeOrigin": 0,
-                  "observedTimeOriginTs": 274118755,
+                  "observedTimeOriginTs": 251535092,
                   "observedNavigationStart": 0,
-                  "observedNavigationStartTs": 274118755,
-                  "observedFirstPaint": 813,
-                  "observedFirstPaintTs": 274931498,
-                  "observedFirstContentfulPaint": 813,
-                  "observedFirstContentfulPaintTs": 274931498,
-                  "observedFirstContentfulPaintAllFrames": 813,
-                  "observedFirstContentfulPaintAllFramesTs": 274931498,
-                  "observedFirstMeaningfulPaint": 813,
-                  "observedFirstMeaningfulPaintTs": 274931498,
-                  "observedLargestContentfulPaint": 813,
-                  "observedLargestContentfulPaintTs": 274931498,
-                  "observedLargestContentfulPaintAllFrames": 813,
-                  "observedLargestContentfulPaintAllFramesTs": 274931498,
-                  "observedTraceEnd": 4173,
-                  "observedTraceEndTs": 278291506,
-                  "observedLoad": 1680,
-                  "observedLoadTs": 275799035,
-                  "observedDomContentLoaded": 1099,
-                  "observedDomContentLoadedTs": 275217292,
+                  "observedNavigationStartTs": 251535092,
+                  "observedFirstPaint": 819,
+                  "observedFirstPaintTs": 252353779,
+                  "observedFirstContentfulPaint": 819,
+                  "observedFirstContentfulPaintTs": 252353779,
+                  "observedFirstContentfulPaintAllFrames": 819,
+                  "observedFirstContentfulPaintAllFramesTs": 252353779,
+                  "observedFirstMeaningfulPaint": 819,
+                  "observedFirstMeaningfulPaintTs": 252353779,
+                  "observedLargestContentfulPaint": 819,
+                  "observedLargestContentfulPaintTs": 252353779,
+                  "observedLargestContentfulPaintAllFrames": 819,
+                  "observedLargestContentfulPaintAllFramesTs": 252353779,
+                  "observedTraceEnd": 4216,
+                  "observedTraceEndTs": 255751205,
+                  "observedLoad": 1728,
+                  "observedLoadTs": 253262680,
+                  "observedDomContentLoaded": 1092,
+                  "observedDomContentLoadedTs": 252626883,
                   "observedCumulativeLayoutShift": 0,
                   "observedCumulativeLayoutShiftMainFrame": 0,
                   "observedTotalCumulativeLayoutShift": 0,
-                  "observedFirstVisualChange": 813,
-                  "observedFirstVisualChangeTs": 274931755,
-                  "observedLastVisualChange": 2122,
-                  "observedLastVisualChangeTs": 276240755,
-                  "observedSpeedIndex": 1468,
-                  "observedSpeedIndexTs": 275586609
+                  "observedFirstVisualChange": 819,
+                  "observedFirstVisualChangeTs": 252354092,
+                  "observedLastVisualChange": 2109,
+                  "observedLastVisualChangeTs": 253644092,
+                  "observedSpeedIndex": 1461,
+                  "observedSpeedIndexTs": 252996522
                 },
                 {
                   "lcpInvalidated": false
@@ -1534,18 +1534,18 @@
                   "numScripts": 2,
                   "numStylesheets": 1,
                   "numFonts": 0,
-                  "numTasks": 357,
-                  "numTasksOver10ms": 6,
+                  "numTasks": 345,
+                  "numTasksOver10ms": 7,
                   "numTasksOver25ms": 4,
-                  "numTasksOver50ms": 1,
+                  "numTasksOver50ms": 2,
                   "numTasksOver100ms": 0,
                   "numTasksOver500ms": 0,
-                  "rtt": 160.253,
-                  "throughput": 2518014.618066894,
-                  "maxRtt": 164.085,
-                  "maxServerLatency": 46.678000000000026,
+                  "rtt": 163.68800000000002,
+                  "throughput": 2508599.231851887,
+                  "maxRtt": 163.72400000000002,
+                  "maxServerLatency": 28.049999999999983,
                   "totalByteWeight": 198071,
-                  "totalTaskTime": 273.83499999999947,
+                  "totalTaskTime": 301.2029999999991,
                   "mainDocumentTransferSize": 2931
                 }
               ]
@@ -1566,7 +1566,7 @@
         "width": 1920,
         "height": 1080,
         "url": "https://nicolasnosal.fr/",
-        "size": 261.874,
+        "size": 262.197,
         "nodes": 88,
         "requests": 9,
         "grade": "A",
@@ -1574,7 +1574,7 @@
         "ges": 1.2,
         "water": 1.8,
         "ecoindex_version": "5.4.2",
-        "date": "2025-04-20 01:13:32.955724",
+        "date": "2025-04-27 01:13:28.975614",
         "page_type": null
       }
     ],
@@ -1590,7 +1590,7 @@
       "cookiesCount": 2,
       "trackersGrade": "B",
       "trackersCount": 2,
-      "lighthouse_performance": 0.91,
+      "lighthouse_performance": 0.94,
       "lighthouse_performanceGrade": "A",
       "lighthouse_accessibility": 0.97,
       "lighthouse_accessibilityGrade": "A",
