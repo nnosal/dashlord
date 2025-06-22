@@ -2,7 +2,118 @@
   {
     "404": [],
     "url": "https://nicolasnosal.fr/",
-    "http": null,
+    "http": {
+      "scan": {
+        "algorithmVersion": 4,
+        "grade": "D",
+        "error": null,
+        "score": 30,
+        "statusCode": 200,
+        "testsFailed": 4,
+        "testsPassed": 6,
+        "testsQuantity": 10,
+        "responseHeaders": {
+          "date": "Sun, 22 Jun 2025 01:22:15 GMT",
+          "content-type": "text/html",
+          "transfer-encoding": "chunked",
+          "connection": "close",
+          "vary": "Accept-Encoding",
+          "last-modified": "Fri, 13 Jan 2023 15:40:48 GMT",
+          "server": "o2switch-PowerBoost-v3"
+        }
+      },
+      "tests": {
+        "content-security-policy": {
+          "expectation": "csp-implemented-with-no-unsafe",
+          "pass": false,
+          "result": "csp-not-implemented",
+          "scoreModifier": -25,
+          "data": null,
+          "http": false,
+          "meta": false,
+          "policy": null,
+          "numPolicies": 0
+        },
+        "cookies": {
+          "expectation": "cookies-secure-with-httponly-sessions",
+          "pass": true,
+          "result": "cookies-not-found",
+          "scoreModifier": 0,
+          "data": null,
+          "sameSite": false
+        },
+        "cross-origin-resource-sharing": {
+          "expectation": "cross-origin-resource-sharing-not-implemented",
+          "pass": true,
+          "result": "cross-origin-resource-sharing-not-implemented",
+          "scoreModifier": 0,
+          "data": null
+        },
+        "redirection": {
+          "expectation": "redirection-to-https",
+          "pass": true,
+          "result": "redirection-to-https",
+          "scoreModifier": 0,
+          "destination": "https://nicolasnosal.fr/",
+          "redirects": true,
+          "route": [
+            "http://nicolasnosal.fr/",
+            "https://nicolasnosal.fr/"
+          ],
+          "statusCode": 200
+        },
+        "referrer-policy": {
+          "expectation": "referrer-policy-private",
+          "pass": true,
+          "result": "referrer-policy-not-implemented",
+          "scoreModifier": 0,
+          "data": null,
+          "http": false,
+          "meta": false
+        },
+        "strict-transport-security": {
+          "expectation": "hsts-implemented-max-age-at-least-six-months",
+          "pass": false,
+          "result": "hsts-not-implemented",
+          "scoreModifier": -20,
+          "data": null,
+          "includeSubDomains": false,
+          "maxAge": null,
+          "preload": false,
+          "preloaded": false
+        },
+        "subresource-integrity": {
+          "expectation": "sri-implemented-and-external-scripts-loaded-securely",
+          "pass": true,
+          "result": "sri-not-implemented-but-all-scripts-loaded-from-secure-origin",
+          "scoreModifier": 0,
+          "data": {}
+        },
+        "x-content-type-options": {
+          "expectation": "x-content-type-options-nosniff",
+          "pass": false,
+          "result": "x-content-type-options-not-implemented",
+          "scoreModifier": -5,
+          "data": null
+        },
+        "x-frame-options": {
+          "expectation": "x-frame-options-sameorigin-or-deny",
+          "pass": false,
+          "result": "x-frame-options-not-implemented",
+          "scoreModifier": -20,
+          "data": null
+        },
+        "cross-origin-resource-policy": {
+          "expectation": "corp-implemented-with-same-site",
+          "pass": true,
+          "result": "corp-not-implemented",
+          "scoreModifier": 0,
+          "data": null,
+          "http": false,
+          "meta": false
+        }
+      }
+    },
     "updownio": null,
     "nmap": null,
     "dependabot": null,
@@ -159,7 +270,7 @@
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "OK",
-        "finding": "server"
+        "finding": "server -- TLS 1.3 client determined"
       },
       {
         "id": "FS",
@@ -173,21 +284,21 @@
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "ECDHE-RSA-AES256-GCM-SHA384 ECDHE-RSA-AES256-SHA384 ECDHE-RSA-AES256-SHA"
+        "finding": "ECDHE-RSA-AES256-GCM-SHA384 ECDHE-RSA-AES256-SHA"
       },
       {
         "id": "FS_ECDHE_curves",
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "OK",
-        "finding": "prime256v1 secp384r1 secp521r1"
+        "finding": "prime256v1 secp384r1"
       },
       {
         "id": "TLS_extensions",
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "'server name/#0' 'max fragment length/#1' 'supported_groups/#10' 'EC point formats/#11' 'application layer protocol negotiation/#16' 'encrypt-then-mac/#22' 'extended master secret/#23' 'session ticket/#35' 'supported versions/#43' 'key share/#51' 'renegotiation info/#65281'"
+        "finding": "'server name/#0' 'EC point formats/#11' 'application layer protocol negotiation/#16' 'extended master secret/#23' 'session ticket/#35' 'supported versions/#43' 'key share/#51' 'renegotiation info/#65281'"
       },
       {
         "id": "TLS_session_ticket",
@@ -355,7 +466,7 @@
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "OK",
-        "finding": "70 >= 30 days"
+        "finding": "63 >= 30 days"
       },
       {
         "id": "cert_notBefore",
@@ -509,14 +620,14 @@
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "-1 seconds from localtime"
+        "finding": "0 seconds from localtime"
       },
       {
         "id": "HTTP_headerTime",
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "1749950632"
+        "finding": "1750555397"
       },
       {
         "id": "HSTS",
@@ -764,63 +875,63 @@
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "TLSv1.3 TLS_CHACHA20_POLY1305_SHA256"
+        "finding": "TLSv1.3 TLS_AES_128_GCM_SHA256"
       },
       {
         "id": "clientsimulation-android_X",
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "TLSv1.3 TLS_CHACHA20_POLY1305_SHA256"
+        "finding": "TLSv1.3 TLS_AES_128_GCM_SHA256"
       },
       {
         "id": "clientsimulation-android_11_12",
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "TLSv1.3 TLS_CHACHA20_POLY1305_SHA256"
+        "finding": "TLSv1.3 TLS_AES_128_GCM_SHA256"
       },
       {
         "id": "clientsimulation-android_13_14",
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "TLSv1.3 TLS_CHACHA20_POLY1305_SHA256"
+        "finding": "TLSv1.3 TLS_AES_128_GCM_SHA256"
       },
       {
         "id": "clientsimulation-android_15",
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "TLSv1.3 TLS_CHACHA20_POLY1305_SHA256"
+        "finding": "TLSv1.3 TLS_AES_128_GCM_SHA256"
       },
       {
         "id": "clientsimulation-chrome_101_win10",
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "TLSv1.3 TLS_CHACHA20_POLY1305_SHA256"
+        "finding": "TLSv1.3 TLS_AES_128_GCM_SHA256"
       },
       {
         "id": "clientsimulation-chromium_137_win11",
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "TLSv1.3 TLS_CHACHA20_POLY1305_SHA256"
+        "finding": "TLSv1.3 TLS_AES_128_GCM_SHA256"
       },
       {
         "id": "clientsimulation-firefox_100_win10",
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "TLSv1.3 TLS_CHACHA20_POLY1305_SHA256"
+        "finding": "TLSv1.3 TLS_AES_128_GCM_SHA256"
       },
       {
         "id": "clientsimulation-firefox_137_win11",
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "TLSv1.3 TLS_CHACHA20_POLY1305_SHA256"
+        "finding": "TLSv1.3 TLS_AES_128_GCM_SHA256"
       },
       {
         "id": "clientsimulation-ie_8_win7",
@@ -834,14 +945,14 @@
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "TLSv1.2 ECDHE-RSA-AES256-SHA384"
+        "finding": "TLSv1.2 ECDHE-RSA-AES256-SHA"
       },
       {
         "id": "clientsimulation-ie_11_win81",
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "TLSv1.2 ECDHE-RSA-AES256-SHA384"
+        "finding": "TLSv1.2 ECDHE-RSA-AES256-SHA"
       },
       {
         "id": "clientsimulation-ie_11_winphone81",
@@ -869,35 +980,35 @@
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "TLSv1.3 TLS_CHACHA20_POLY1305_SHA256"
+        "finding": "TLSv1.3 TLS_AES_128_GCM_SHA256"
       },
       {
         "id": "clientsimulation-edge_133_win11_23h2",
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "TLSv1.3 TLS_CHACHA20_POLY1305_SHA256"
+        "finding": "TLSv1.3 TLS_AES_128_GCM_SHA256"
       },
       {
         "id": "clientsimulation-safari_184_ios_184",
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "TLSv1.3 TLS_CHACHA20_POLY1305_SHA256"
+        "finding": "TLSv1.3 TLS_AES_128_GCM_SHA256"
       },
       {
         "id": "clientsimulation-safari_154_osx_1231",
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "TLSv1.3 TLS_CHACHA20_POLY1305_SHA256"
+        "finding": "TLSv1.3 TLS_AES_128_GCM_SHA256"
       },
       {
         "id": "clientsimulation-safari_184_osx_154",
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "TLSv1.3 TLS_CHACHA20_POLY1305_SHA256"
+        "finding": "TLSv1.3 TLS_AES_128_GCM_SHA256"
       },
       {
         "id": "clientsimulation-java_7u25",
@@ -911,7 +1022,7 @@
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "TLSv1.3 TLS_CHACHA20_POLY1305_SHA256"
+        "finding": "TLSv1.3 TLS_AES_256_GCM_SHA384"
       },
       {
         "id": "clientsimulation-java_1102",
@@ -925,21 +1036,21 @@
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "TLSv1.3 TLS_CHACHA20_POLY1305_SHA256"
+        "finding": "TLSv1.3 TLS_AES_256_GCM_SHA384"
       },
       {
         "id": "clientsimulation-java_2106",
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "TLSv1.3 TLS_CHACHA20_POLY1305_SHA256"
+        "finding": "TLSv1.3 TLS_AES_256_GCM_SHA384"
       },
       {
         "id": "clientsimulation-go_1178",
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "TLSv1.3 TLS_CHACHA20_POLY1305_SHA256"
+        "finding": "TLSv1.3 TLS_AES_128_GCM_SHA256"
       },
       {
         "id": "clientsimulation-libressl_336",
@@ -960,21 +1071,21 @@
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "TLSv1.3 TLS_CHACHA20_POLY1305_SHA256"
+        "finding": "TLSv1.3 TLS_AES_256_GCM_SHA384"
       },
       {
         "id": "clientsimulation-openssl_315",
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "TLSv1.3 TLS_CHACHA20_POLY1305_SHA256"
+        "finding": "TLSv1.3 TLS_AES_256_GCM_SHA384"
       },
       {
         "id": "clientsimulation-openssl_350",
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "TLSv1.3 TLS_CHACHA20_POLY1305_SHA256"
+        "finding": "TLSv1.3 TLS_AES_256_GCM_SHA384"
       },
       {
         "id": "clientsimulation-apple_mail_16_0",
@@ -988,7 +1099,7 @@
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "TLSv1.3 TLS_CHACHA20_POLY1305_SHA256"
+        "finding": "TLSv1.3 TLS_AES_128_GCM_SHA256"
       },
       {
         "id": "rating_spec",
@@ -1083,7 +1194,7 @@
         },
         {
           "type": "unknown",
-          "url": "https://openstats.webservice-est.fr/matomo.php?action_name=Nicolas%20NOSAL%20-%20Bienvenue&idsite=3&rec=1&r=747865&h=1&m=20&s=28&url=https%3A%2F%2Fnicolasnosal.fr%2F&_id=74daac85e151d03e&_idts=1749950428&_idvc=1&_idn=0&_refts=0&_viewts=1749950428&send_image=1&pdf=1&qt=0&realp=0&wma=0&dir=0&fla=0&java=0&gears=0&ag=0&cookie=1&res=800x600&gt_ms=169&pv_id=MyuBea"
+          "url": "https://openstats.webservice-est.fr/matomo.php?action_name=Nicolas%20NOSAL%20-%20Bienvenue&idsite=3&rec=1&r=697451&h=1&m=19&s=58&url=https%3A%2F%2Fnicolasnosal.fr%2F&_id=866ce3f7b2dccae8&_idts=1750555198&_idvc=1&_idn=0&_refts=0&_viewts=1750555198&send_image=1&pdf=1&qt=0&realp=0&wma=0&dir=0&fla=0&java=0&gears=0&ag=0&cookie=1&res=800x600&gt_ms=169&pv_id=Kr2EsD"
         }
       ],
       "cookies": [
@@ -1092,7 +1203,7 @@
           "value": "1",
           "domain": "nicolasnosal.fr",
           "path": "/",
-          "expires": 1749952228,
+          "expires": 1750556998,
           "size": 15,
           "httpOnly": false,
           "secure": false,
@@ -1104,10 +1215,10 @@
         },
         {
           "name": "_pk_id.3.38bd",
-          "value": "74daac85e151d03e.1749950428.1.1749950428.1749950428.",
+          "value": "866ce3f7b2dccae8.1750555198.1.1750555198.1750555198.",
           "domain": "nicolasnosal.fr",
           "path": "/",
-          "expires": 1783905628,
+          "expires": 1784510398,
           "size": 65,
           "httpOnly": false,
           "secure": false,
@@ -1119,9 +1230,9 @@
         }
       ],
       "headers": {
-        "content-encoding": "br",
+        "content-encoding": "zstd",
         "content-type": "text/html",
-        "date": "Sun, 15 Jun 2025 01:20:25 GMT",
+        "date": "Sun, 22 Jun 2025 01:19:56 GMT",
         "last-modified": "Fri, 13 Jan 2023 15:40:48 GMT",
         "server": "o2switch-PowerBoost-v3",
         "vary": "Accept-Encoding"
@@ -1292,7 +1403,7 @@
       {
         "requestedUrl": "https://nicolasnosal.fr/",
         "finalUrl": "https://nicolasnosal.fr/",
-        "fetchTime": "2025-06-15T01:22:30.862Z",
+        "fetchTime": "2025-06-22T01:21:47.713Z",
         "runWarnings": [],
         "categories": {
           "performance": {
@@ -1303,7 +1414,7 @@
               "snapshot"
             ],
             "id": "performance",
-            "score": 0.79
+            "score": 0.89
           },
           "accessibility": {
             "title": "Accessibility",
@@ -1355,53 +1466,53 @@
             "description": "Collects all available metrics.",
             "score": null,
             "scoreDisplayMode": "informative",
-            "numericValue": 2358,
+            "numericValue": 1921,
             "numericUnit": "millisecond",
             "details": {
               "type": "debugdata",
               "items": [
                 {
-                  "firstContentfulPaint": 1056,
-                  "firstMeaningfulPaint": 1056,
-                  "largestContentfulPaint": 1056,
-                  "interactive": 2358,
-                  "speedIndex": 2749,
-                  "totalBlockingTime": 902,
-                  "maxPotentialFID": 376,
+                  "firstContentfulPaint": 1003,
+                  "firstMeaningfulPaint": 1003,
+                  "largestContentfulPaint": 1003,
+                  "interactive": 1921,
+                  "speedIndex": 2409,
+                  "totalBlockingTime": 435,
+                  "maxPotentialFID": 264,
                   "cumulativeLayoutShift": 0,
                   "cumulativeLayoutShiftMainFrame": 0,
                   "totalCumulativeLayoutShift": 0,
                   "observedTimeOrigin": 0,
-                  "observedTimeOriginTs": 329109669,
+                  "observedTimeOriginTs": 418713569,
                   "observedNavigationStart": 0,
-                  "observedNavigationStartTs": 329109669,
-                  "observedFirstPaint": 830,
-                  "observedFirstPaintTs": 329940139,
-                  "observedFirstContentfulPaint": 830,
-                  "observedFirstContentfulPaintTs": 329940139,
-                  "observedFirstContentfulPaintAllFrames": 830,
-                  "observedFirstContentfulPaintAllFramesTs": 329940139,
-                  "observedFirstMeaningfulPaint": 830,
-                  "observedFirstMeaningfulPaintTs": 329940139,
-                  "observedLargestContentfulPaint": 830,
-                  "observedLargestContentfulPaintTs": 329940139,
-                  "observedLargestContentfulPaintAllFrames": 830,
-                  "observedLargestContentfulPaintAllFramesTs": 329940139,
-                  "observedTraceEnd": 4221,
-                  "observedTraceEndTs": 333330619,
-                  "observedLoad": 1714,
-                  "observedLoadTs": 330824166,
-                  "observedDomContentLoaded": 1167,
-                  "observedDomContentLoadedTs": 330277090,
+                  "observedNavigationStartTs": 418713569,
+                  "observedFirstPaint": 773,
+                  "observedFirstPaintTs": 419486610,
+                  "observedFirstContentfulPaint": 773,
+                  "observedFirstContentfulPaintTs": 419486610,
+                  "observedFirstContentfulPaintAllFrames": 773,
+                  "observedFirstContentfulPaintAllFramesTs": 419486610,
+                  "observedFirstMeaningfulPaint": 773,
+                  "observedFirstMeaningfulPaintTs": 419486610,
+                  "observedLargestContentfulPaint": 773,
+                  "observedLargestContentfulPaintTs": 419486610,
+                  "observedLargestContentfulPaintAllFrames": 773,
+                  "observedLargestContentfulPaintAllFramesTs": 419486610,
+                  "observedTraceEnd": 4119,
+                  "observedTraceEndTs": 422832776,
+                  "observedLoad": 1631,
+                  "observedLoadTs": 420344978,
+                  "observedDomContentLoaded": 1074,
+                  "observedDomContentLoadedTs": 419787847,
                   "observedCumulativeLayoutShift": 0,
                   "observedCumulativeLayoutShiftMainFrame": 0,
                   "observedTotalCumulativeLayoutShift": 0,
-                  "observedFirstVisualChange": 830,
-                  "observedFirstVisualChangeTs": 329939669,
-                  "observedLastVisualChange": 2162,
-                  "observedLastVisualChangeTs": 331271669,
-                  "observedSpeedIndex": 1416,
-                  "observedSpeedIndexTs": 330526027
+                  "observedFirstVisualChange": 773,
+                  "observedFirstVisualChangeTs": 419486569,
+                  "observedLastVisualChange": 2105,
+                  "observedLastVisualChangeTs": 420818569,
+                  "observedSpeedIndex": 1359,
+                  "observedSpeedIndexTs": 420072319
                 },
                 {
                   "lcpInvalidated": false
@@ -1423,19 +1534,19 @@
                   "numScripts": 2,
                   "numStylesheets": 1,
                   "numFonts": 0,
-                  "numTasks": 352,
-                  "numTasksOver10ms": 9,
-                  "numTasksOver25ms": 7,
-                  "numTasksOver50ms": 4,
+                  "numTasks": 341,
+                  "numTasksOver10ms": 5,
+                  "numTasksOver25ms": 4,
+                  "numTasksOver50ms": 2,
                   "numTasksOver100ms": 0,
                   "numTasksOver500ms": 0,
-                  "rtt": 159.897,
-                  "throughput": 2515396.4494154328,
-                  "maxRtt": 159.907,
-                  "maxServerLatency": 29.911,
-                  "totalByteWeight": 193550,
-                  "totalTaskTime": 494.7759999999995,
-                  "mainDocumentTransferSize": 2396
+                  "rtt": 158.886,
+                  "throughput": 3289059.532999872,
+                  "maxRtt": 159.413,
+                  "maxServerLatency": 97.29999999999998,
+                  "totalByteWeight": 197437,
+                  "totalTaskTime": 305.04899999999986,
+                  "mainDocumentTransferSize": 2939
                 }
               ]
             }
@@ -1463,7 +1574,7 @@
         "ges": 1.2,
         "water": 1.8,
         "ecoindex_version": "5.4.2",
-        "date": "2025-06-15 01:21:22.955695",
+        "date": "2025-06-22 01:20:50.024116",
         "page_type": null
       }
     ],
@@ -1471,6 +1582,7 @@
     "dsfr": null,
     "summary": {
       "404": "A+",
+      "httpGrade": "D",
       "testsslExpireSoon": false,
       "testsslExpireDate": "2025-08-24T13:08:00.000Z",
       "testsslGrade": "A",
@@ -1478,8 +1590,8 @@
       "cookiesCount": 2,
       "trackersGrade": "B",
       "trackersCount": 2,
-      "lighthouse_performance": 0.79,
-      "lighthouse_performanceGrade": "B",
+      "lighthouse_performance": 0.89,
+      "lighthouse_performanceGrade": "A",
       "lighthouse_accessibility": 0.97,
       "lighthouse_accessibilityGrade": "A",
       "lighthouse_best-practices": 0.92,
