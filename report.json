@@ -13,7 +13,7 @@
         "testsPassed": 6,
         "testsQuantity": 10,
         "responseHeaders": {
-          "date": "Sun, 07 Dec 2025 01:22:04 GMT",
+          "date": "Sun, 14 Dec 2025 01:22:22 GMT",
           "content-type": "text/html",
           "transfer-encoding": "chunked",
           "connection": "close",
@@ -287,6 +287,13 @@
         "finding": "ECDHE-RSA-AES256-GCM-SHA384 ECDHE-RSA-AES256-SHA"
       },
       {
+        "id": "FS_KEMs",
+        "ip": "nicolasnosal.fr/109.234.164.68",
+        "port": "443",
+        "severity": "LOW",
+        "finding": "No KEMs offered"
+      },
+      {
         "id": "FS_ECDHE_curves",
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
@@ -466,7 +473,7 @@
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "OK",
-        "finding": "69 >= 30 days"
+        "finding": "62 >= 30 days"
       },
       {
         "id": "cert_notBefore",
@@ -620,14 +627,14 @@
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "-1 seconds from localtime"
+        "finding": "0 seconds from localtime"
       },
       {
         "id": "HTTP_headerTime",
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "1765070553"
+        "finding": "1765675369"
       },
       {
         "id": "HSTS",
@@ -1176,7 +1183,7 @@
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "56"
+        "finding": "55"
       }
     ],
     "thirdparties": {
@@ -1187,7 +1194,7 @@
         },
         {
           "type": "unknown",
-          "url": "https://openstats.webservice-est.fr/matomo.php?action_name=Nicolas%20NOSAL%20-%20Bienvenue&idsite=3&rec=1&r=521269&h=1&m=19&s=53&url=https%3A%2F%2Fnicolasnosal.fr%2F&_id=0a8de6837eb00d36&_idts=1765070394&_idvc=1&_idn=0&_refts=0&_viewts=1765070394&send_image=1&pdf=1&qt=0&realp=0&wma=0&dir=0&fla=0&java=0&gears=0&ag=0&cookie=1&res=800x600&gt_ms=105&pv_id=6D9VC0"
+          "url": "https://openstats.webservice-est.fr/matomo.php?action_name=Nicolas%20NOSAL%20-%20Bienvenue&idsite=3&rec=1&r=218437&h=1&m=20&s=15&url=https%3A%2F%2Fnicolasnosal.fr%2F&_id=ec3a91c1ce76e3fa&_idts=1765675215&_idvc=1&_idn=0&_refts=0&_viewts=1765675215&send_image=1&pdf=1&qt=0&realp=0&wma=0&dir=0&fla=0&java=0&gears=0&ag=0&cookie=1&res=800x600&gt_ms=111&pv_id=tzfbJz"
         }
       ],
       "cookies": [
@@ -1196,7 +1203,7 @@
           "value": "1",
           "domain": "nicolasnosal.fr",
           "path": "/",
-          "expires": 1765072193,
+          "expires": 1765677015,
           "size": 15,
           "httpOnly": false,
           "secure": false,
@@ -1208,10 +1215,10 @@
         },
         {
           "name": "_pk_id.3.38bd",
-          "value": "0a8de6837eb00d36.1765070394.1.1765070394.1765070394.",
+          "value": "ec3a91c1ce76e3fa.1765675215.1.1765675215.1765675215.",
           "domain": "nicolasnosal.fr",
           "path": "/",
-          "expires": 1799025594,
+          "expires": 1799630415,
           "size": 65,
           "httpOnly": false,
           "secure": false,
@@ -1225,7 +1232,7 @@
       "headers": {
         "content-encoding": "br",
         "content-type": "text/html",
-        "date": "Sun, 07 Dec 2025 01:19:52 GMT",
+        "date": "Sun, 14 Dec 2025 01:20:13 GMT",
         "last-modified": "Fri, 13 Jan 2023 15:40:48 GMT",
         "server": "o2switch-PowerBoost-v3",
         "vary": "Accept-Encoding"
@@ -1396,7 +1403,7 @@
       {
         "requestedUrl": "https://nicolasnosal.fr/",
         "finalUrl": "https://nicolasnosal.fr/",
-        "fetchTime": "2025-12-07T01:21:38.811Z",
+        "fetchTime": "2025-12-14T01:21:54.724Z",
         "runWarnings": [],
         "categories": {
           "performance": {
@@ -1407,7 +1414,7 @@
               "snapshot"
             ],
             "id": "performance",
-            "score": 0.92
+            "score": 1
           },
           "accessibility": {
             "title": "Accessibility",
@@ -1459,53 +1466,53 @@
             "description": "Collects all available metrics.",
             "score": null,
             "scoreDisplayMode": "informative",
-            "numericValue": 1593,
+            "numericValue": 998,
             "numericUnit": "millisecond",
             "details": {
               "type": "debugdata",
               "items": [
                 {
-                  "firstContentfulPaint": 876,
-                  "firstMeaningfulPaint": 876,
-                  "largestContentfulPaint": 876,
-                  "interactive": 1593,
-                  "speedIndex": 1841,
-                  "totalBlockingTime": 342,
-                  "maxPotentialFID": 404,
+                  "firstContentfulPaint": 890,
+                  "firstMeaningfulPaint": 890,
+                  "largestContentfulPaint": 890,
+                  "interactive": 998,
+                  "speedIndex": 1707,
+                  "totalBlockingTime": 59,
+                  "maxPotentialFID": 111,
                   "cumulativeLayoutShift": 0,
                   "cumulativeLayoutShiftMainFrame": 0,
                   "totalCumulativeLayoutShift": 0,
                   "observedTimeOrigin": 0,
-                  "observedTimeOriginTs": 244015824,
+                  "observedTimeOriginTs": 1011181492,
                   "observedNavigationStart": 0,
-                  "observedNavigationStartTs": 244015824,
-                  "observedFirstPaint": 494,
-                  "observedFirstPaintTs": 244510050,
-                  "observedFirstContentfulPaint": 494,
-                  "observedFirstContentfulPaintTs": 244510050,
-                  "observedFirstContentfulPaintAllFrames": 494,
-                  "observedFirstContentfulPaintAllFramesTs": 244510050,
-                  "observedFirstMeaningfulPaint": 494,
-                  "observedFirstMeaningfulPaintTs": 244510050,
-                  "observedLargestContentfulPaint": 494,
-                  "observedLargestContentfulPaintTs": 244510050,
-                  "observedLargestContentfulPaintAllFrames": 494,
-                  "observedLargestContentfulPaintAllFramesTs": 244510050,
-                  "observedTraceEnd": 3442,
-                  "observedTraceEndTs": 247457398,
-                  "observedLoad": 1027,
-                  "observedLoadTs": 245042682,
-                  "observedDomContentLoaded": 5,
-                  "observedDomContentLoadedTs": 244020379,
+                  "observedNavigationStartTs": 1011181492,
+                  "observedFirstPaint": 489,
+                  "observedFirstPaintTs": 1011670168,
+                  "observedFirstContentfulPaint": 489,
+                  "observedFirstContentfulPaintTs": 1011670168,
+                  "observedFirstContentfulPaintAllFrames": 489,
+                  "observedFirstContentfulPaintAllFramesTs": 1011670168,
+                  "observedFirstMeaningfulPaint": 489,
+                  "observedFirstMeaningfulPaintTs": 1011670168,
+                  "observedLargestContentfulPaint": 489,
+                  "observedLargestContentfulPaintTs": 1011670168,
+                  "observedLargestContentfulPaintAllFrames": 489,
+                  "observedLargestContentfulPaintAllFramesTs": 1011670168,
+                  "observedTraceEnd": 3367,
+                  "observedTraceEndTs": 1014548401,
+                  "observedLoad": 953,
+                  "observedLoadTs": 1012134068,
+                  "observedDomContentLoaded": 675,
+                  "observedDomContentLoadedTs": 1011856720,
                   "observedCumulativeLayoutShift": 0,
                   "observedCumulativeLayoutShiftMainFrame": 0,
                   "observedTotalCumulativeLayoutShift": 0,
-                  "observedFirstVisualChange": 494,
-                  "observedFirstVisualChangeTs": 244509824,
-                  "observedLastVisualChange": 1643,
-                  "observedLastVisualChangeTs": 245658824,
-                  "observedSpeedIndex": 977,
-                  "observedSpeedIndexTs": 244993248
+                  "observedFirstVisualChange": 488,
+                  "observedFirstVisualChangeTs": 1011669492,
+                  "observedLastVisualChange": 1647,
+                  "observedLastVisualChangeTs": 1012828492,
+                  "observedSpeedIndex": 958,
+                  "observedSpeedIndexTs": 1012139692
                 },
                 {
                   "lcpInvalidated": false
@@ -1527,18 +1534,18 @@
                   "numScripts": 2,
                   "numStylesheets": 1,
                   "numFonts": 0,
-                  "numTasks": 388,
-                  "numTasksOver10ms": 5,
+                  "numTasks": 353,
+                  "numTasksOver10ms": 4,
                   "numTasksOver25ms": 2,
                   "numTasksOver50ms": 1,
-                  "numTasksOver100ms": 1,
+                  "numTasksOver100ms": 0,
                   "numTasksOver500ms": 0,
-                  "rtt": 94.429,
-                  "throughput": 4653261.095434436,
-                  "maxRtt": 94.451,
-                  "maxServerLatency": 30.129999999999995,
+                  "rtt": 93.665,
+                  "throughput": 4660700.227135601,
+                  "maxRtt": 94.435,
+                  "maxServerLatency": 29.511999999999986,
                   "totalByteWeight": 193550,
-                  "totalTaskTime": 250.71299999999928,
+                  "totalTaskTime": 146.89499999999967,
                   "mainDocumentTransferSize": 2396
                 }
               ]
@@ -1567,7 +1574,7 @@
         "ges": 1.2,
         "water": 1.8,
         "ecoindex_version": "5.4.2",
-        "date": "2025-12-07 01:20:49.360432",
+        "date": "2025-12-14 01:21:07.754919",
         "page_type": null
       }
     ],
@@ -1583,7 +1590,7 @@
       "cookiesCount": 2,
       "trackersGrade": "B",
       "trackersCount": 2,
-      "lighthouse_performance": 0.92,
+      "lighthouse_performance": 1,
       "lighthouse_performanceGrade": "A",
       "lighthouse_accessibility": 0.97,
       "lighthouse_accessibilityGrade": "A",
