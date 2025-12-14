@@ -167,6 +167,13 @@
               "finding"      : "ECDHE-RSA-AES256-GCM-SHA384 ECDHE-RSA-AES256-SHA"
           }
 ,         {
+              "id"           : "FS_KEMs",
+              "ip"           : "nicolasnosal.fr/109.234.164.68",
+              "port"         : "443",
+              "severity"     : "LOW",
+              "finding"      : "No KEMs offered"
+          }
+,         {
               "id"           : "FS_ECDHE_curves",
               "ip"           : "nicolasnosal.fr/109.234.164.68",
               "port"         : "443",
@@ -346,7 +353,7 @@
               "ip"           : "nicolasnosal.fr/109.234.164.68",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "69 >= 30 days"
+              "finding"      : "62 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -500,14 +507,14 @@
               "ip"           : "nicolasnosal.fr/109.234.164.68",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-1 seconds from localtime"
+              "finding"      : "0 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "nicolasnosal.fr/109.234.164.68",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1765070553"
+              "finding"      : "1765675369"
           }
 ,         {
               "id"           : "HSTS",
@@ -1056,6 +1063,6 @@
               "ip"           : "nicolasnosal.fr/109.234.164.68",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "56"
+              "finding"      : "55"
           }
 ]
