@@ -1,5 +1,166 @@
 {
-  "trackers": null,
-  "cookies": null,
-  "headers": null
+  "trackers": [
+    {
+      "type": "unknown",
+      "url": "https://openstats.webservice-est.fr/matomo.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://openstats.webservice-est.fr/matomo.php?action_name=Nicolas%20NOSAL%20-%20Bienvenue&idsite=3&rec=1&r=475567&h=2&m=5&s=24&url=https%3A%2F%2Fnicolasnosal.fr%2F&_id=bef45b05178a9af0&_idts=1770516324&_idvc=1&_idn=0&_refts=0&_viewts=1770516324&send_image=1&pdf=1&qt=0&realp=0&wma=0&dir=0&fla=0&java=0&gears=0&ag=0&cookie=1&res=800x600&gt_ms=119&pv_id=Rbi5qv"
+    }
+  ],
+  "cookies": [
+    {
+      "name": "_pk_id.3.38bd",
+      "value": "bef45b05178a9af0.1770516324.1.1770516324.1770516324.",
+      "domain": "nicolasnosal.fr",
+      "path": "/",
+      "expires": 1804471524,
+      "size": 65,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "priority": "Medium",
+      "sameParty": false,
+      "sourceScheme": "Secure"
+    },
+    {
+      "name": "_pk_ses.3.38bd",
+      "value": "1",
+      "domain": "nicolasnosal.fr",
+      "path": "/",
+      "expires": 1770518124,
+      "size": 15,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "priority": "Medium",
+      "sameParty": false,
+      "sourceScheme": "Secure"
+    }
+  ],
+  "headers": {
+    "content-encoding": "br",
+    "content-type": "text/html",
+    "date": "Sun, 08 Feb 2026 02:05:21 GMT",
+    "last-modified": "Fri, 13 Jan 2023 15:40:48 GMT",
+    "server": "o2switch-PowerBoost-v3",
+    "vary": "Accept-Encoding"
+  },
+  "endpoints": [
+    {
+      "hostname": "nicolasnosal.fr",
+      "ip": "109.234.164.68",
+      "geoip": {
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        },
+        "country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 500,
+          "latitude": 48.8582,
+          "longitude": 2.3387,
+          "time_zone": "Europe/Paris"
+        },
+        "registered_country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "openstats.webservice-est.fr",
+      "ip": "109.234.162.101",
+      "geoip": {
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        },
+        "country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 500,
+          "latitude": 48.8582,
+          "longitude": 2.3387,
+          "time_zone": "Europe/Paris"
+        },
+        "registered_country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        }
+      }
+    }
+  ]
 }
