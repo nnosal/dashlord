@@ -3,13 +3,48 @@
     {
       "type": "unknown",
       "url": "https://openstats.webservice-est.fr/matomo.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://openstats.webservice-est.fr/matomo.php?action_name=Nicolas%20NOSAL%20-%20Bienvenue&idsite=3&rec=1&r=607200&h=2&m=8&s=14&url=https%3A%2F%2Fnicolasnosal.fr%2F&_id=53190773710e4284&_idn=1&send_image=0&_refts=0&pv_id=TbKhKG&pf_net=754&pf_srv=184&pf_tfr=1&pf_dm1=315&uadata=%7B%22formFactors%22%3A%5B%22Desktop%22%5D%2C%22fullVersionList%22%3A%5B%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%22147.0.7727.56%22%7D%2C%7B%22brand%22%3A%22Not.A%2FBrand%22%2C%22version%22%3A%228.0.0.0%22%7D%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22Linux%22%2C%22platformVersion%22%3A%22%22%7D&pdf=1&qt=0&realp=0&wma=0&fla=0&java=0&ag=0&cookie=1&res=800x600"
     }
   ],
-  "cookies": [],
+  "cookies": [
+    {
+      "name": "_pk_id.3.38bd",
+      "value": "53190773710e4284.1776564494.",
+      "domain": "nicolasnosal.fr",
+      "path": "/",
+      "expires": 1810519694,
+      "size": 41,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "priority": "Medium",
+      "sourceScheme": "Secure",
+      "sameParty": false
+    },
+    {
+      "name": "_pk_ses.3.38bd",
+      "value": "1",
+      "domain": "nicolasnosal.fr",
+      "path": "/",
+      "expires": 1776566294,
+      "size": 15,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "priority": "Medium",
+      "sourceScheme": "Secure",
+      "sameParty": false
+    }
+  ],
   "headers": {
     "content-encoding": "br",
     "content-type": "text/html",
-    "date": "Sun, 12 Apr 2026 02:03:47 GMT",
+    "date": "Sun, 19 Apr 2026 02:08:12 GMT",
     "last-modified": "Fri, 13 Jan 2023 15:40:48 GMT",
     "server": "o2switch-PowerBoost-v3",
     "vary": "Accept-Encoding"
