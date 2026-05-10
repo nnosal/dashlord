@@ -13,7 +13,7 @@
         "testsPassed": 6,
         "testsQuantity": 10,
         "responseHeaders": {
-          "date": "Sun, 03 May 2026 02:29:10 GMT",
+          "date": "Sun, 10 May 2026 02:32:20 GMT",
           "content-type": "text/html",
           "transfer-encoding": "chunked",
           "connection": "close",
@@ -396,7 +396,7 @@
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "06F4846405C3ECE1697B3364128637618318"
+        "finding": "06B007D6BE0B34C922199E988F49D858D22D"
       },
       {
         "id": "cert_serialNumberLen",
@@ -410,21 +410,21 @@
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "ADD7FE79FFB4FA9B51B0000A83B14920FFA80F5C"
+        "finding": "CA33924B405D397B689068470191D3E83968C951"
       },
       {
         "id": "cert_fingerprintSHA256",
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "5904CF5E753E4FB47F4EC7602D5B286996716E5EC61CE91C2B8B66A95CF204E5"
+        "finding": "E41F505017FA4F360B504CA6D5AC10A8D75D220D829ED96C21D0B6C984CB9E28"
       },
       {
         "id": "cert",
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "-----BEGIN CERTIFICATE-----\nMIIFIjCCBAqgAwIBAgISBvSEZAXD7OFpezNkEoY3YYMYMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTIwHhcNMjYwMzEyMTIyODQ4WhcNMjYwNjEwMTIyODQ3WjAaMRgwFgYDVQQDEw9uaWNvbGFzbm9zYWwuZnIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC8DtcimXPvbjYSU4J6rLWamH16sqrtmw7wIZa0VPoTGyLaRbgsOaF3YPhEG8YnginGDEEgGY/elynynUfG7l0/hn6MZo6mmbdU1ttR1ZCDQYSJ6oQNdHNCXUsTbBRCjxcZod2PGFCADEJ2s9V4/JO/ouq/TXruV11o2JljgUvV3S6zqAmpXFweXpyNIshBlh6Ft8sWeyG80cpCIbeTEolqhS1wIkgbNbV1nHQllOMGw3qjRrt9J8LMoa9Zyn8fi1rK2UqPrr5pnXiI5rho+ZxqHVE3aijMSxcsiAYnSsKZhrd8NX9D8VdhXfl2Yb2r886VP0jzTAmpS0MB51U6qMKPAgMBAAGjggJHMIICQzAOBgNVHQ8BAf8EBAMCBaAwEwYDVR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQULow1xx2TcZn4U8z57R89dG48MagwHwYDVR0jBBgwFoAUALUp8i2ObzHom0yteD763OkM0dIwMwYIKwYBBQUHAQEEJzAlMCMGCCsGAQUFBzAChhdodHRwOi8vcjEyLmkubGVuY3Iub3JnLzBFBgNVHREEPjA8ghRtYWlsLm5pY29sYXNub3NhbC5mcoIPbmljb2xhc25vc2FsLmZyghN3d3cubmljb2xhc25vc2FsLmZyMBMGA1UdIAQMMAowCAYGZ4EMAQIBMC4GA1UdHwQnMCUwI6AhoB+GHWh0dHA6Ly9yMTIuYy5sZW5jci5vcmcvMjUuY3JsMIIBCwYKKwYBBAHWeQIEAgSB/ASB+QD3AHUAFoMtq/CpJQ8P8DqlRf/Iv8gj0IdL9gQpJ/jnHzMT9foAAAGc4jrtYAAABAMARjBEAiB7IuunXX4asxR80/q/3vA0SY2ODpsTsUSY1HBpldeWbAIgNGJFafn5dRLtFOPmeekps1/SE4RDI4papvITx2a4DDEAfgAai51pSleYyJmgyoi99I/AtFZgzMNgDR9x9Gn/x9GsowAAAZziOu/7AAgAAAUAVpqOvwQDAEcwRQIhALDoA54F+L5Fd91LBZEWitiabRBSBBt7pndOg1mE5+OzAiAlFEmuj8vVUnkK3Dv/OwRLV4wFGYmAVkJqpyb6360OCDANBgkqhkiG9w0BAQsFAAOCAQEAnKa0V6+Ivx++bYBAxz6MnH+7rdaY6+I+kqMAcDjpP6y95EA2lrD0H5mWKXVlFBt/5Qt1iSWJtJkQo1FEI8dSgQN/krMbDwedvHyDOMmz+C8fy3RTpRJrsQ+R83UgSAapIcRFwcUHbhZOp43O1A7tF2CS/GAhvqr6roiT+iJX6shajh0maU/Mp+njZ00VcO3qP6UzdRClH2FgQeDx4/Sj+wV1Ro93Yx5KIYRWimQ1ir9TsTQXsPzfgWTgosbF2SzZ9oa2HGWlp9WOa4/MLm+n29C7KVtEpKy2aCySMF8nBWXTauE4t858skZlupP+zBfOvKHBD3fozm2ie4qNnsDdjQ==\n-----END CERTIFICATE-----"
+        "finding": "-----BEGIN CERTIFICATE-----\nMIIFITCCBAmgAwIBAgISBrAH1r4LNMkiGZ6Yj0nYWNItMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTMwHhcNMjYwNTA5MTIxMDA5WhcNMjYwODA3MTIxMDA4WjAaMRgwFgYDVQQDEw9uaWNvbGFzbm9zYWwuZnIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC8DtcimXPvbjYSU4J6rLWamH16sqrtmw7wIZa0VPoTGyLaRbgsOaF3YPhEG8YnginGDEEgGY/elynynUfG7l0/hn6MZo6mmbdU1ttR1ZCDQYSJ6oQNdHNCXUsTbBRCjxcZod2PGFCADEJ2s9V4/JO/ouq/TXruV11o2JljgUvV3S6zqAmpXFweXpyNIshBlh6Ft8sWeyG80cpCIbeTEolqhS1wIkgbNbV1nHQllOMGw3qjRrt9J8LMoa9Zyn8fi1rK2UqPrr5pnXiI5rho+ZxqHVE3aijMSxcsiAYnSsKZhrd8NX9D8VdhXfl2Yb2r886VP0jzTAmpS0MB51U6qMKPAgMBAAGjggJGMIICQjAOBgNVHQ8BAf8EBAMCBaAwEwYDVR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQULow1xx2TcZn4U8z57R89dG48MagwHwYDVR0jBBgwFoAU56ufDywzoFPTXk94yLKEDjvWkjMwMwYIKwYBBQUHAQEEJzAlMCMGCCsGAQUFBzAChhdodHRwOi8vcjEzLmkubGVuY3Iub3JnLzBFBgNVHREEPjA8ghRtYWlsLm5pY29sYXNub3NhbC5mcoIPbmljb2xhc25vc2FsLmZyghN3d3cubmljb2xhc25vc2FsLmZyMBMGA1UdIAQMMAowCAYGZ4EMAQIBMC4GA1UdHwQnMCUwI6AhoB+GHWh0dHA6Ly9yMTMuYy5sZW5jci5vcmcvNDYuY3JsMIIBCgYKKwYBBAHWeQIEAgSB+wSB+AD2AHUA2AlVO5RPev/IFhlvlE+Fq7D4/F6HVSYPFdEucrtFSxQAAAGeDNqzlgAABAMARjBEAiA84I72u+JLXtzUKcqPmhQUXW8buQScqqILIfEsyIP48QIgMv3I7W1QXYKhIyNqMPf7mmIJaft6HxYzLqkIO0Ew+8AAfQCoJsvjCsY1EkZTP+Bl8U8Z2W4ZCBPEHdlteQCzEjxVJwAAAZ4M2rWyAAgAAAUACjCHVQQDAEYwRAIgb4CpvjTJLFDc1FaMHGuAQUEMYNGU3jKtVoe4Gzct9T8CIAo3gZyjHSqe0SFhtVcC/TpYNc3uOxo7LBwbykUUqVumMA0GCSqGSIb3DQEBCwUAA4IBAQBtKkw9H2ZNaFJ8uXf29fichogkUwRZv2Q6H0d1NfsgUypUl8v3tDjJk3PgoVezzTPCAAXOhZFujWH8eZiut+MuVyq85f4p+6irvWeluJjAHoIyjC/DLSayUAPDsJFoxSDRQwI3WnK0il7aIOnyLeRvB9Clva5Zdx+PI/+HT4jiXI4aJU6eyOM+bHLrcaTFoCYmx4GGvoKYLXdLmjsDm89uzXheTfUPJxq+iPTcDFMEgffmwE0DQ+/VFh2jjgIdzPxMo1EyQ8p2m2QvNZKXLD/nxonaizlvyHelHKiuKtKdcG5CClKZ0zUswevECPhT8jpbzVJcuhGDI8X3E9JQBCKM\n-----END CERTIFICATE-----"
       },
       {
         "id": "cert_commonName",
@@ -473,21 +473,21 @@
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "OK",
-        "finding": "38 >= 30 days"
+        "finding": "89 >= 30 days"
       },
       {
         "id": "cert_notBefore",
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "2026-03-12 12:28"
+        "finding": "2026-05-09 12:10"
       },
       {
         "id": "cert_notAfter",
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "OK",
-        "finding": "2026-06-10 12:28"
+        "finding": "2026-08-07 12:10"
       },
       {
         "id": "cert_extlifeSpan",
@@ -508,7 +508,7 @@
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "http://r12.c.lencr.org/25.crl"
+        "finding": "http://r13.c.lencr.org/46.crl"
       },
       {
         "id": "cert_ocspURL",
@@ -564,21 +564,21 @@
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "R12 (Let's Encrypt from US)"
+        "finding": "R13 (Let's Encrypt from US)"
       },
       {
         "id": "intermediate_cert <#1>",
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "-----BEGIN CERTIFICATE-----\nMIIFBjCCAu6gAwIBAgIRAMISMktwqbSRcdxA9+KFJjwwDQYJKoZIhvcNAQELBQAwTzELMAkGA1UEBhMCVVMxKTAnBgNVBAoTIEludGVybmV0IFNlY3VyaXR5IFJlc2VhcmNoIEdyb3VwMRUwEwYDVQQDEwxJU1JHIFJvb3QgWDEwHhcNMjQwMzEzMDAwMDAwWhcNMjcwMzEyMjM1OTU5WjAzMQswCQYDVQQGEwJVUzEWMBQGA1UEChMNTGV0J3MgRW5jcnlwdDEMMAoGA1UEAxMDUjEyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2pgodK2+lP474B7i5Ut1qywSf+2nAzJ+Npfs6DGPpRONC5kuHs0BUT1M5ShuCVUxqqUiXXL0LQfCTUA83wEjuXg39RplMjTmhnGdBO+ECFu9AhqZ66YBAJpzkG2Pogeg0JfT2kVhgTU9FPnEwF9q3AuWGrCf4yrqvSrWmMebcas7dA8827JgvlpLThjp2ypzXIlhZZ7+7Tymy05v5J75AEaz/xlNKmOzjmbGGIVwx1Blbzt05UiDDwhYXS0jnV6j/ujbAKHS9OMZTfLuevYnnuXNnC2i8n+cF63vEzc50bTILEHWhsDp7CH4WRt/uTp8n1wBnWIEwii9Cq08yhDsGwIDAQABo4H4MIH1MA4GA1UdDwEB/wQEAwIBhjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwEwEgYDVR0TAQH/BAgwBgEB/wIBADAdBgNVHQ4EFgQUALUp8i2ObzHom0yteD763OkM0dIwHwYDVR0jBBgwFoAUebRZ5nu25eQBc4AIiMgaWPbpm24wMgYIKwYBBQUHAQEEJjAkMCIGCCsGAQUFBzAChhZodHRwOi8veDEuaS5sZW5jci5vcmcvMBMGA1UdIAQMMAowCAYGZ4EMAQIBMCcGA1UdHwQgMB4wHKAaoBiGFmh0dHA6Ly94MS5jLmxlbmNyLm9yZy8wDQYJKoZIhvcNAQELBQADggIBAI910AnPanZIZTKS3rVEyIV29BWEjAK/duuz8eL5boSoVpHhkkv34eoAeEiPdZLj5EZ7G2ArIK+gzhTlRQ1q4FKGpPPaFBSpqV/xbUb5UlAXQOnkHn3mFVj+qYv87/WeY+Bm4sN3Ox8BhyaU7UAQ3LeZ7N1X01xxQe4wIAAE3JVLUCiHmZL+qoCUtgYIFPgcg350QMUIWgxPXNGEncT921ne7nluI02V8pLUmClqXOsCwULw+PVOZCB7qOMxxMBoCUeL2Ll4oMpOSr5pJCpLN3tRA2s6P1KLs9TSrVhOk+7LX28NMUlIusQ/nxLJID0RhAeFtPjyOCOscQBA53+NRjSCak7P4A5jX7ppmkcJECL+S0i3kXVUy5Me5BbrU8973jZNv/ax6+ZK6TM8jWmimL6of6OrX7ZU6E2WqazzsFrLG3o2kySbzlhSgJ81Cl4tv3SbYiYXnJExKQvzf83DYotox3f0fwv7xln1A2ZLplCb0O+l/AK0YE0DS2FPxSAHi0iwMfW2nNHJrXcY3LLHD77gRgje4Eveubi2xxa+Nmk/hmhLdIETiVDFanoCrMVIpQ59XWHkzdFmoHXHBV7oibVjGSO7ULSQ7MJ1Nz51phuDJSgAIU7A0zrLnOrAj/dfrlEWRhCvAgbuwLZX1A2sjNjXoPOHbsPiy+lO1KF8/XY7\n-----END CERTIFICATE-----"
+        "finding": "-----BEGIN CERTIFICATE-----\nMIIFBTCCAu2gAwIBAgIQWgDyEtjUtIDzkkFX6imDBTANBgkqhkiG9w0BAQsFADBPMQswCQYDVQQGEwJVUzEpMCcGA1UEChMgSW50ZXJuZXQgU2VjdXJpdHkgUmVzZWFyY2ggR3JvdXAxFTATBgNVBAMTDElTUkcgUm9vdCBYMTAeFw0yNDAzMTMwMDAwMDBaFw0yNzAzMTIyMzU5NTlaMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQClZ3CN0FaBZBUXYc25BtStGZCMJlA3mBZjklTb2cyEBZPs0+wIG6BgUUNIfSvHSJaetC3ancgnO1ehn6vw1g7UDjDKb5ux0daknTI+WE41b0VYaHEX/D7YXYKgL7JRbLAaXbhZzjVlyIuhrxA3/+OcXcJJFzT/jCuLjfC8cSyTDB0FxLrHzarJXnzRyQH3nAP2/Apd9Np75tt2QnDr9E0i2gB3b9bJXxf92nUupVcM9upctuBzpWjPoXTidYJ+EJ/B9aLrAek4sQpEzNPCifVJNYIKNLMc6YjCR06CDgo28EdPivEpBHXazeGaXP9enZiVuppD0EqiFwUBBDDTMrOPAgMBAAGjgfgwgfUwDgYDVR0PAQH/BAQDAgGGMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDATASBgNVHRMBAf8ECDAGAQH/AgEAMB0GA1UdDgQWBBTnq58PLDOgU9NeT3jIsoQOO9aSMzAfBgNVHSMEGDAWgBR5tFnme7bl5AFzgAiIyBpY9umbbjAyBggrBgEFBQcBAQQmMCQwIgYIKwYBBQUHMAKGFmh0dHA6Ly94MS5pLmxlbmNyLm9yZy8wEwYDVR0gBAwwCjAIBgZngQwBAgEwJwYDVR0fBCAwHjAcoBqgGIYWaHR0cDovL3gxLmMubGVuY3Iub3JnLzANBgkqhkiG9w0BAQsFAAOCAgEAUTdYUqEimzW7TbrOypLqCfL7VOwYf/Q79OH5cHLCZeggfQhDconlk7Kgh8b0vi+/XuWu7CN8n/UPeg1vo3G+taXirrytthQinAHGwc/UdbOygJa9zuBcVyqoH3CXTXDInT+8a+c3aEVMJ2St+pSn4ed+WkDp8ijsijvEyFwE47hulW0Ltzjg9fOV5Pmrg/zxWbRuL+k0DBDHEJennCsAen7c35Pmx7jpmJ/HtgRhcnz0yjSBvyIw6L1QIupkCv2SBODT/xDD3gfQQyKv6roV4G2EhfEyAsWpmojxjCUCGiyg97FvDtm/NK2LSc9lybKxB73I2+P2G3CaWpvvpAiHCVu30jW8GCxKdfhsXtnIy2imskQqVZ2m0Pmxobb28Tucr7xBK7CtwvPrb79os7u2XP3O5f9b/H66GNyRrglRXlrYjI1oGYL/f4I1n/Sgusda6WvA6C190kxjU15Y12mHU4+BxyR9cx2hhGS9fAjMZKJss28qxvz6Axu4CaDmRNZpK/pQrXF17yXCXkmEWgvSOEZy6Z9pcbLIVEGckV/iVeq0AOo2pkg9p4QRIy0tK2diRENLSF2KysFwbY6B26BFeFs3v1sYVRhFW9nLkOrQVporCS0KyZmfwVD89qSTlnctLcZnIavjKsKUu1nA1iU0yYMdYepKR7lWbnwhdx3ewok=\n-----END CERTIFICATE-----"
       },
       {
         "id": "intermediate_cert_fingerprintSHA256 <#1>",
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "131FCE7784016899A5A00203A9EFC80F18EBBD75580717EDC1553580930836EC"
+        "finding": "D3B128216A843F8EF1321501F5DF52A5DF52939EE2C19297712CD3DE4D419354"
       },
       {
         "id": "intermediate_cert_notBefore <#1>",
@@ -606,7 +606,7 @@
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "R12 <-- ISRG Root X1"
+        "finding": "R13 <-- ISRG Root X1"
       },
       {
         "id": "intermediate_cert_badOCSP",
@@ -634,7 +634,7 @@
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "1777775408"
+        "finding": "1778380402"
       },
       {
         "id": "HSTS",
@@ -807,7 +807,7 @@
         "severity": "INFO",
         "cve": "CVE-2016-0800 CVE-2016-0703",
         "cwe": "CWE-310",
-        "finding": "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=5904CF5E753E4FB47F4EC7602D5B286996716E5EC61CE91C2B8B66A95CF204E5"
+        "finding": "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=E41F505017FA4F360B504CA6D5AC10A8D75D220D829ED96C21D0B6C984CB9E28"
       },
       {
         "id": "LOGJAM",
@@ -1183,7 +1183,7 @@
         "ip": "nicolasnosal.fr/109.234.164.68",
         "port": "443",
         "severity": "INFO",
-        "finding": "95"
+        "finding": "99"
       }
     ],
     "thirdparties": {
@@ -1194,16 +1194,16 @@
         },
         {
           "type": "unknown",
-          "url": "https://openstats.webservice-est.fr/matomo.php?action_name=Nicolas%20NOSAL%20-%20Bienvenue&idsite=3&rec=1&r=676985&h=2&m=27&s=8&url=https%3A%2F%2Fnicolasnosal.fr%2F&_id=082b3025c4f17ead&_idn=1&send_image=0&_refts=0&pv_id=vHD8Wl&pf_net=761&pf_srv=419&pf_tfr=2&pf_dm1=341&uadata=%7B%22formFactors%22%3A%5B%22Desktop%22%5D%2C%22fullVersionList%22%3A%5B%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%22147.0.7727.57%22%7D%2C%7B%22brand%22%3A%22Not.A%2FBrand%22%2C%22version%22%3A%228.0.0.0%22%7D%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22Linux%22%2C%22platformVersion%22%3A%22%22%7D&pdf=1&qt=0&realp=0&wma=0&fla=0&java=0&ag=0&cookie=1&res=800x600"
+          "url": "https://openstats.webservice-est.fr/matomo.php?action_name=Nicolas%20NOSAL%20-%20Bienvenue&idsite=3&rec=1&r=820420&h=2&m=30&s=9&url=https%3A%2F%2Fnicolasnosal.fr%2F&_id=48897d788a53e844&_idn=1&send_image=0&_refts=0&pv_id=qIhddm&pf_net=686&pf_srv=156&pf_tfr=1&pf_dm1=396&uadata=%7B%22formFactors%22%3A%5B%22Desktop%22%5D%2C%22fullVersionList%22%3A%5B%7B%22brand%22%3A%22Not%2FA)Brand%22%2C%22version%22%3A%2299.0.0.0%22%7D%2C%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%22148.0.7778.97%22%7D%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22Linux%22%2C%22platformVersion%22%3A%22%22%7D&pdf=1&qt=0&realp=0&wma=0&fla=0&java=0&ag=0&cookie=1&res=800x600"
         }
       ],
       "cookies": [
         {
           "name": "_pk_id.3.38bd",
-          "value": "082b3025c4f17ead.1777775229.",
+          "value": "48897d788a53e844.1778380210.",
           "domain": "nicolasnosal.fr",
           "path": "/",
-          "expires": 1811730429,
+          "expires": 1812335410,
           "size": 41,
           "httpOnly": false,
           "secure": false,
@@ -1218,7 +1218,7 @@
           "value": "1",
           "domain": "nicolasnosal.fr",
           "path": "/",
-          "expires": 1777777028,
+          "expires": 1778382009,
           "size": 15,
           "httpOnly": false,
           "secure": false,
@@ -1232,7 +1232,7 @@
       "headers": {
         "content-encoding": "br",
         "content-type": "text/html",
-        "date": "Sun, 03 May 2026 02:27:07 GMT",
+        "date": "Sun, 10 May 2026 02:30:08 GMT",
         "last-modified": "Fri, 13 Jan 2023 15:40:48 GMT",
         "server": "o2switch-PowerBoost-v3",
         "vary": "Accept-Encoding"
@@ -1403,7 +1403,7 @@
       {
         "requestedUrl": "https://nicolasnosal.fr/",
         "finalUrl": "https://nicolasnosal.fr/",
-        "fetchTime": "2026-05-03T02:28:40.074Z",
+        "fetchTime": "2026-05-10T02:31:49.256Z",
         "runWarnings": [],
         "categories": {
           "performance": {
@@ -1466,53 +1466,53 @@
             "description": "Collects all available metrics.",
             "score": null,
             "scoreDisplayMode": "informative",
-            "numericValue": 1028,
+            "numericValue": 1022,
             "numericUnit": "millisecond",
             "details": {
               "type": "debugdata",
               "items": [
                 {
-                  "firstContentfulPaint": 822,
-                  "firstMeaningfulPaint": 822,
-                  "largestContentfulPaint": 822,
-                  "interactive": 1028,
-                  "speedIndex": 2216,
-                  "totalBlockingTime": 62,
-                  "maxPotentialFID": 100,
+                  "firstContentfulPaint": 829,
+                  "firstMeaningfulPaint": 829,
+                  "largestContentfulPaint": 829,
+                  "interactive": 1022,
+                  "speedIndex": 2190,
+                  "totalBlockingTime": 52,
+                  "maxPotentialFID": 98,
                   "cumulativeLayoutShift": 0,
                   "cumulativeLayoutShiftMainFrame": 0,
                   "totalCumulativeLayoutShift": 0,
                   "observedTimeOrigin": 0,
-                  "observedTimeOriginTs": 1119356091,
+                  "observedTimeOriginTs": 235798319,
                   "observedNavigationStart": 0,
-                  "observedNavigationStartTs": 1119356091,
-                  "observedFirstPaint": 720,
-                  "observedFirstPaintTs": 1120075764,
-                  "observedFirstContentfulPaint": 720,
-                  "observedFirstContentfulPaintTs": 1120075764,
-                  "observedFirstContentfulPaintAllFrames": 720,
-                  "observedFirstContentfulPaintAllFramesTs": 1120075764,
-                  "observedFirstMeaningfulPaint": 720,
-                  "observedFirstMeaningfulPaintTs": 1120075764,
-                  "observedLargestContentfulPaint": 720,
-                  "observedLargestContentfulPaintTs": 1120075764,
-                  "observedLargestContentfulPaintAllFrames": 720,
-                  "observedLargestContentfulPaintAllFramesTs": 1120075764,
-                  "observedTraceEnd": 3814,
-                  "observedTraceEndTs": 1123170269,
-                  "observedLoad": 1342,
-                  "observedLoadTs": 1120697833,
+                  "observedNavigationStartTs": 235798319,
+                  "observedFirstPaint": 705,
+                  "observedFirstPaintTs": 236503611,
+                  "observedFirstContentfulPaint": 705,
+                  "observedFirstContentfulPaintTs": 236503611,
+                  "observedFirstContentfulPaintAllFrames": 705,
+                  "observedFirstContentfulPaintAllFramesTs": 236503611,
+                  "observedFirstMeaningfulPaint": 705,
+                  "observedFirstMeaningfulPaintTs": 236503611,
+                  "observedLargestContentfulPaint": 705,
+                  "observedLargestContentfulPaintTs": 236503611,
+                  "observedLargestContentfulPaintAllFrames": 705,
+                  "observedLargestContentfulPaintAllFramesTs": 236503611,
+                  "observedTraceEnd": 3974,
+                  "observedTraceEndTs": 239772208,
+                  "observedLoad": 1505,
+                  "observedLoadTs": 237303818,
                   "observedDomContentLoaded": 0,
-                  "observedDomContentLoadedTs": 1119356142,
+                  "observedDomContentLoadedTs": 235798737,
                   "observedCumulativeLayoutShift": 0,
                   "observedCumulativeLayoutShiftMainFrame": 0,
                   "observedTotalCumulativeLayoutShift": 0,
-                  "observedFirstVisualChange": 719,
-                  "observedFirstVisualChangeTs": 1120075091,
-                  "observedLastVisualChange": 2018,
-                  "observedLastVisualChangeTs": 1121374091,
-                  "observedSpeedIndex": 1285,
-                  "observedSpeedIndexTs": 1120641062
+                  "observedFirstVisualChange": 705,
+                  "observedFirstVisualChangeTs": 236503319,
+                  "observedLastVisualChange": 1978,
+                  "observedLastVisualChangeTs": 237776319,
+                  "observedSpeedIndex": 1259,
+                  "observedSpeedIndexTs": 237057016
                 },
                 {
                   "lcpInvalidated": false
@@ -1534,18 +1534,18 @@
                   "numScripts": 2,
                   "numStylesheets": 1,
                   "numFonts": 0,
-                  "numTasks": 481,
+                  "numTasks": 476,
                   "numTasksOver10ms": 4,
                   "numTasksOver25ms": 1,
                   "numTasksOver50ms": 0,
                   "numTasksOver100ms": 0,
                   "numTasksOver500ms": 0,
-                  "rtt": 153.15699999999998,
-                  "throughput": 2671968.8406486297,
-                  "maxRtt": 154.192,
-                  "maxServerLatency": 24.659999999999997,
-                  "totalByteWeight": 196650,
-                  "totalTaskTime": 152.32600000000002,
+                  "rtt": 147.273,
+                  "throughput": 2607796.2404636163,
+                  "maxRtt": 156.06199999999998,
+                  "maxServerLatency": 24.969000000000023,
+                  "totalByteWeight": 238961,
+                  "totalTaskTime": 150.66199999999975,
                   "mainDocumentTransferSize": 2931
                 }
               ]
@@ -1566,7 +1566,7 @@
         "width": 1920,
         "height": 1080,
         "url": "https://nicolasnosal.fr/",
-        "size": 260.604,
+        "size": 301.839,
         "nodes": 88,
         "requests": 8,
         "grade": "A",
@@ -1574,7 +1574,7 @@
         "ges": 1.2,
         "water": 1.8,
         "ecoindex_version": "5.4.2",
-        "date": "2026-05-03 02:27:47.461382",
+        "date": "2026-05-10 02:30:53.374653",
         "page_type": null
       }
     ],
@@ -1584,7 +1584,7 @@
       "404": "A+",
       "httpGrade": "D",
       "testsslExpireSoon": false,
-      "testsslExpireDate": "2026-06-10T12:28:00.000Z",
+      "testsslExpireDate": "2026-08-07T12:10:00.000Z",
       "testsslGrade": "A+",
       "cookiesGrade": "B",
       "cookiesCount": 2,
