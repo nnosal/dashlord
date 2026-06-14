@@ -6,7 +6,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://openstats.webservice-est.fr/matomo.php?action_name=Nicolas%20NOSAL%20-%20Bienvenue&idsite=3&rec=1&r=622228&h=2&m=57&s=57&url=https%3A%2F%2Fnicolasnosal.fr%2F&_id=0f67a2b6c7b9d77d&_idn=1&send_image=0&_refts=0&pv_id=5hs1DX&pf_net=526&pf_srv=134&pf_tfr=1&pf_dm1=298&uadata=%7B%22formFactors%22%3A%5B%22Desktop%22%5D%2C%22fullVersionList%22%3A%5B%7B%22brand%22%3A%22Not%2FA)Brand%22%2C%22version%22%3A%2299.0.0.0%22%7D%2C%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%22148.0.7778.97%22%7D%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22Linux%22%2C%22platformVersion%22%3A%22%22%7D&pdf=1&qt=0&realp=0&wma=0&fla=0&java=0&ag=0&cookie=1&res=800x600"
+      "url": "https://openstats.webservice-est.fr/matomo.php?action_name=Nicolas%20NOSAL%20-%20Bienvenue&idsite=3&rec=1&r=640550&h=3&m=28&s=17&url=https%3A%2F%2Fnicolasnosal.fr%2F&_id=a018e8d68b77b4cd&_idn=1&send_image=0&_refts=0&pv_id=wPUJzC&pf_net=544&pf_srv=213&pf_tfr=1&pf_dm1=207&uadata=%7B%22formFactors%22%3A%5B%22Desktop%22%5D%2C%22fullVersionList%22%3A%5B%7B%22brand%22%3A%22Not%2FA)Brand%22%2C%22version%22%3A%2299.0.0.0%22%7D%2C%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%22148.0.7778.97%22%7D%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22Linux%22%2C%22platformVersion%22%3A%22%22%7D&pdf=1&qt=0&realp=0&wma=0&fla=0&java=0&ag=0&cookie=1&res=800x600"
     }
   ],
   "cookies": [
@@ -15,7 +15,7 @@
       "value": "1",
       "domain": "nicolasnosal.fr",
       "path": "/",
-      "expires": 1780802877,
+      "expires": 1781409497,
       "size": 15,
       "httpOnly": false,
       "secure": false,
@@ -27,10 +27,10 @@
     },
     {
       "name": "_pk_id.3.38bd",
-      "value": "0f67a2b6c7b9d77d.1780801078.",
+      "value": "a018e8d68b77b4cd.1781407698.",
       "domain": "nicolasnosal.fr",
       "path": "/",
-      "expires": 1814756278,
+      "expires": 1815362898,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -44,7 +44,7 @@
   "headers": {
     "content-encoding": "br",
     "content-type": "text/html",
-    "date": "Sun, 07 Jun 2026 02:57:56 GMT",
+    "date": "Sun, 14 Jun 2026 03:28:16 GMT",
     "last-modified": "Fri, 13 Jan 2023 15:40:48 GMT",
     "server": "o2switch-PowerBoost-v3",
     "vary": "Accept-Encoding"
