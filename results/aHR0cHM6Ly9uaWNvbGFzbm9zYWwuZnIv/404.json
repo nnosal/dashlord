@@ -16,7 +16,7 @@
         "href": "https://nicolasnosal.fr/"
       },
       "link": "https://nicolasnosal.fr/",
-      "line": "--2026-10-25 02:49:39--  https://nicolasnosal.fr/",
+      "line": "--2026-11-01 03:52:30--  https://nicolasnosal.fr/",
       "broken": false
     },
     {
@@ -35,7 +35,7 @@
         "href": "https://nicolasnosal.fr/robots.txt"
       },
       "link": "https://nicolasnosal.fr/robots.txt",
-      "line": "--2026-10-25 02:49:40--  https://nicolasnosal.fr/robots.txt",
+      "line": "--2026-11-01 03:52:31--  https://nicolasnosal.fr/robots.txt",
       "broken": false
     },
     {
@@ -49,12 +49,12 @@
         "hash": null,
         "search": null,
         "query": null,
-        "pathname": "/feed.xml",
-        "path": "/feed.xml",
-        "href": "https://nicolasnosal.fr/feed.xml"
+        "pathname": "/assets/dm-sans-latin-BNY05QUC.woff2",
+        "path": "/assets/dm-sans-latin-BNY05QUC.woff2",
+        "href": "https://nicolasnosal.fr/assets/dm-sans-latin-BNY05QUC.woff2"
       },
-      "link": "https://nicolasnosal.fr/feed.xml",
-      "line": "--2026-10-25 02:49:40--  https://nicolasnosal.fr/feed.xml",
+      "link": "https://nicolasnosal.fr/assets/dm-sans-latin-BNY05QUC.woff2",
+      "line": "--2026-11-01 03:52:31--  https://nicolasnosal.fr/assets/dm-sans-latin-BNY05QUC.woff2",
       "broken": false
     },
     {
@@ -68,12 +68,12 @@
         "hash": null,
         "search": null,
         "query": null,
-        "pathname": "/feed.json",
-        "path": "/feed.json",
-        "href": "https://nicolasnosal.fr/feed.json"
+        "pathname": "/assets/dm-sans-italic-latin-C5VcRjlN.woff2",
+        "path": "/assets/dm-sans-italic-latin-C5VcRjlN.woff2",
+        "href": "https://nicolasnosal.fr/assets/dm-sans-italic-latin-C5VcRjlN.woff2"
       },
-      "link": "https://nicolasnosal.fr/feed.json",
-      "line": "--2026-10-25 02:49:40--  https://nicolasnosal.fr/feed.json",
+      "link": "https://nicolasnosal.fr/assets/dm-sans-italic-latin-C5VcRjlN.woff2",
+      "line": "--2026-11-01 03:52:31--  https://nicolasnosal.fr/assets/dm-sans-italic-latin-C5VcRjlN.woff2",
       "broken": false
     },
     {
@@ -87,31 +87,12 @@
         "hash": null,
         "search": null,
         "query": null,
-        "pathname": "/page/2/",
-        "path": "/page/2/",
-        "href": "https://nicolasnosal.fr/page/2/"
+        "pathname": "/assets/plus-jakarta-sans-latin-B2KjpZfh.woff2",
+        "path": "/assets/plus-jakarta-sans-latin-B2KjpZfh.woff2",
+        "href": "https://nicolasnosal.fr/assets/plus-jakarta-sans-latin-B2KjpZfh.woff2"
       },
-      "link": "https://nicolasnosal.fr/page/2/",
-      "line": "--2026-10-25 02:49:40--  https://nicolasnosal.fr/page/2/",
-      "broken": false
-    },
-    {
-      "url": {
-        "protocol": "https:",
-        "slashes": true,
-        "auth": null,
-        "host": "nicolasnosal.fr",
-        "port": null,
-        "hostname": "nicolasnosal.fr",
-        "hash": null,
-        "search": "?v=a2724f3399f3a823e7d86990cdff9be8",
-        "query": "v=a2724f3399f3a823e7d86990cdff9be8",
-        "pathname": "/assets/css/style.css",
-        "path": "/assets/css/style.css?v=a2724f3399f3a823e7d86990cdff9be8",
-        "href": "https://nicolasnosal.fr/assets/css/style.css?v=a2724f3399f3a823e7d86990cdff9be8"
-      },
-      "link": "https://nicolasnosal.fr/assets/css/style.css?v=a2724f3399f3a823e7d86990cdff9be8",
-      "line": "--2026-10-25 02:49:41--  https://nicolasnosal.fr/assets/css/style.css?v=a2724f3399f3a823e7d86990cdff9be8",
+      "link": "https://nicolasnosal.fr/assets/plus-jakarta-sans-latin-B2KjpZfh.woff2",
+      "line": "--2026-11-01 03:52:31--  https://nicolasnosal.fr/assets/plus-jakarta-sans-latin-B2KjpZfh.woff2",
       "broken": false
     },
     {
@@ -125,12 +106,12 @@
         "hash": null,
         "search": null,
         "query": null,
-        "pathname": "/media/website/iu.jpg",
-        "path": "/media/website/iu.jpg",
-        "href": "https://nicolasnosal.fr/media/website/iu.jpg"
+        "pathname": "/assets/nicolas-nosal-portrait-K4B67gEF.webp",
+        "path": "/assets/nicolas-nosal-portrait-K4B67gEF.webp",
+        "href": "https://nicolasnosal.fr/assets/nicolas-nosal-portrait-K4B67gEF.webp"
       },
-      "link": "https://nicolasnosal.fr/media/website/iu.jpg",
-      "line": "--2026-10-25 02:49:41--  https://nicolasnosal.fr/media/website/iu.jpg",
+      "link": "https://nicolasnosal.fr/assets/nicolas-nosal-portrait-K4B67gEF.webp",
+      "line": "--2026-11-01 03:52:31--  https://nicolasnosal.fr/assets/nicolas-nosal-portrait-K4B67gEF.webp",
       "broken": false
     },
     {
@@ -144,12 +125,12 @@
         "hash": null,
         "search": null,
         "query": null,
-        "pathname": "/media/website/responsive/iu-xs.jpg",
-        "path": "/media/website/responsive/iu-xs.jpg",
-        "href": "https://nicolasnosal.fr/media/website/responsive/iu-xs.jpg"
+        "pathname": "/assets/parcours-paysage-horizon-lever-du-jour-5TSY4Xsc.webp",
+        "path": "/assets/parcours-paysage-horizon-lever-du-jour-5TSY4Xsc.webp",
+        "href": "https://nicolasnosal.fr/assets/parcours-paysage-horizon-lever-du-jour-5TSY4Xsc.webp"
       },
-      "link": "https://nicolasnosal.fr/media/website/responsive/iu-xs.jpg",
-      "line": "--2026-10-25 02:49:41--  https://nicolasnosal.fr/media/website/responsive/iu-xs.jpg",
+      "link": "https://nicolasnosal.fr/assets/parcours-paysage-horizon-lever-du-jour-5TSY4Xsc.webp",
+      "line": "--2026-11-01 03:52:32--  https://nicolasnosal.fr/assets/parcours-paysage-horizon-lever-du-jour-5TSY4Xsc.webp",
       "broken": false
     },
     {
@@ -163,12 +144,12 @@
         "hash": null,
         "search": null,
         "query": null,
-        "pathname": "/media/website/responsive/iu-sm.jpg",
-        "path": "/media/website/responsive/iu-sm.jpg",
-        "href": "https://nicolasnosal.fr/media/website/responsive/iu-sm.jpg"
+        "pathname": "/assets/methode-sens-atelier-plan-YQzfcfKe.webp",
+        "path": "/assets/methode-sens-atelier-plan-YQzfcfKe.webp",
+        "href": "https://nicolasnosal.fr/assets/methode-sens-atelier-plan-YQzfcfKe.webp"
       },
-      "link": "https://nicolasnosal.fr/media/website/responsive/iu-sm.jpg",
-      "line": "--2026-10-25 02:49:41--  https://nicolasnosal.fr/media/website/responsive/iu-sm.jpg",
+      "link": "https://nicolasnosal.fr/assets/methode-sens-atelier-plan-YQzfcfKe.webp",
+      "line": "--2026-11-01 03:52:32--  https://nicolasnosal.fr/assets/methode-sens-atelier-plan-YQzfcfKe.webp",
       "broken": false
     },
     {
@@ -182,12 +163,12 @@
         "hash": null,
         "search": null,
         "query": null,
-        "pathname": "/media/website/responsive/iu-md.jpg",
-        "path": "/media/website/responsive/iu-md.jpg",
-        "href": "https://nicolasnosal.fr/media/website/responsive/iu-md.jpg"
+        "pathname": "/assets/methode-architecture-batiment-DbdObPZB.webp",
+        "path": "/assets/methode-architecture-batiment-DbdObPZB.webp",
+        "href": "https://nicolasnosal.fr/assets/methode-architecture-batiment-DbdObPZB.webp"
       },
-      "link": "https://nicolasnosal.fr/media/website/responsive/iu-md.jpg",
-      "line": "--2026-10-25 02:49:42--  https://nicolasnosal.fr/media/website/responsive/iu-md.jpg",
+      "link": "https://nicolasnosal.fr/assets/methode-architecture-batiment-DbdObPZB.webp",
+      "line": "--2026-11-01 03:52:32--  https://nicolasnosal.fr/assets/methode-architecture-batiment-DbdObPZB.webp",
       "broken": false
     },
     {
@@ -201,12 +182,12 @@
         "hash": null,
         "search": null,
         "query": null,
-        "pathname": "/media/website/responsive/iu-lg.jpg",
-        "path": "/media/website/responsive/iu-lg.jpg",
-        "href": "https://nicolasnosal.fr/media/website/responsive/iu-lg.jpg"
+        "pathname": "/assets/methode-experimentation-carte-electronique-Cik3Rx_h.webp",
+        "path": "/assets/methode-experimentation-carte-electronique-Cik3Rx_h.webp",
+        "href": "https://nicolasnosal.fr/assets/methode-experimentation-carte-electronique-Cik3Rx_h.webp"
       },
-      "link": "https://nicolasnosal.fr/media/website/responsive/iu-lg.jpg",
-      "line": "--2026-10-25 02:49:42--  https://nicolasnosal.fr/media/website/responsive/iu-lg.jpg",
+      "link": "https://nicolasnosal.fr/assets/methode-experimentation-carte-electronique-Cik3Rx_h.webp",
+      "line": "--2026-11-01 03:52:32--  https://nicolasnosal.fr/assets/methode-experimentation-carte-electronique-Cik3Rx_h.webp",
       "broken": false
     },
     {
@@ -220,12 +201,12 @@
         "hash": null,
         "search": null,
         "query": null,
-        "pathname": "/media/website/responsive/iu-xl.jpg",
-        "path": "/media/website/responsive/iu-xl.jpg",
-        "href": "https://nicolasnosal.fr/media/website/responsive/iu-xl.jpg"
+        "pathname": "/assets/agence-poste-de-travail-numerique-DuBLGFIS.webp",
+        "path": "/assets/agence-poste-de-travail-numerique-DuBLGFIS.webp",
+        "href": "https://nicolasnosal.fr/assets/agence-poste-de-travail-numerique-DuBLGFIS.webp"
       },
-      "link": "https://nicolasnosal.fr/media/website/responsive/iu-xl.jpg",
-      "line": "--2026-10-25 02:49:42--  https://nicolasnosal.fr/media/website/responsive/iu-xl.jpg",
+      "link": "https://nicolasnosal.fr/assets/agence-poste-de-travail-numerique-DuBLGFIS.webp",
+      "line": "--2026-11-01 03:52:32--  https://nicolasnosal.fr/assets/agence-poste-de-travail-numerique-DuBLGFIS.webp",
       "broken": false
     },
     {
@@ -239,12 +220,12 @@
         "hash": null,
         "search": null,
         "query": null,
-        "pathname": "/media/website/responsive/iu-2xl.jpg",
-        "path": "/media/website/responsive/iu-2xl.jpg",
-        "href": "https://nicolasnosal.fr/media/website/responsive/iu-2xl.jpg"
+        "pathname": "/assets/lab-code-source-ecran-_aRPz8Wf.webp",
+        "path": "/assets/lab-code-source-ecran-_aRPz8Wf.webp",
+        "href": "https://nicolasnosal.fr/assets/lab-code-source-ecran-_aRPz8Wf.webp"
       },
-      "link": "https://nicolasnosal.fr/media/website/responsive/iu-2xl.jpg",
-      "line": "--2026-10-25 02:49:42--  https://nicolasnosal.fr/media/website/responsive/iu-2xl.jpg",
+      "link": "https://nicolasnosal.fr/assets/lab-code-source-ecran-_aRPz8Wf.webp",
+      "line": "--2026-11-01 03:52:32--  https://nicolasnosal.fr/assets/lab-code-source-ecran-_aRPz8Wf.webp",
       "broken": false
     },
     {
@@ -258,12 +239,12 @@
         "hash": null,
         "search": null,
         "query": null,
-        "pathname": "/authors/nicolas-nosal/",
-        "path": "/authors/nicolas-nosal/",
-        "href": "https://nicolasnosal.fr/authors/nicolas-nosal/"
+        "pathname": "/assets/veille-carnet-de-notes-QGrgo_6D.webp",
+        "path": "/assets/veille-carnet-de-notes-QGrgo_6D.webp",
+        "href": "https://nicolasnosal.fr/assets/veille-carnet-de-notes-QGrgo_6D.webp"
       },
-      "link": "https://nicolasnosal.fr/authors/nicolas-nosal/",
-      "line": "--2026-10-25 02:49:42--  https://nicolasnosal.fr/authors/nicolas-nosal/",
+      "link": "https://nicolasnosal.fr/assets/veille-carnet-de-notes-QGrgo_6D.webp",
+      "line": "--2026-11-01 03:52:32--  https://nicolasnosal.fr/assets/veille-carnet-de-notes-QGrgo_6D.webp",
       "broken": false
     },
     {
@@ -277,12 +258,12 @@
         "hash": null,
         "search": null,
         "query": null,
-        "pathname": "/bonne-annee-2021-4.html",
-        "path": "/bonne-annee-2021-4.html",
-        "href": "https://nicolasnosal.fr/bonne-annee-2021-4.html"
+        "pathname": "/assets/transmission-echange-collectif-IqqU2l-4.webp",
+        "path": "/assets/transmission-echange-collectif-IqqU2l-4.webp",
+        "href": "https://nicolasnosal.fr/assets/transmission-echange-collectif-IqqU2l-4.webp"
       },
-      "link": "https://nicolasnosal.fr/bonne-annee-2021-4.html",
-      "line": "--2026-10-25 02:49:43--  https://nicolasnosal.fr/bonne-annee-2021-4.html",
+      "link": "https://nicolasnosal.fr/assets/transmission-echange-collectif-IqqU2l-4.webp",
+      "line": "--2026-11-01 03:52:32--  https://nicolasnosal.fr/assets/transmission-echange-collectif-IqqU2l-4.webp",
       "broken": false
     },
     {
@@ -296,12 +277,12 @@
         "hash": null,
         "search": null,
         "query": null,
-        "pathname": "/media/posts/5/NewYear23-article.jpeg",
-        "path": "/media/posts/5/NewYear23-article.jpeg",
-        "href": "https://nicolasnosal.fr/media/posts/5/NewYear23-article.jpeg"
+        "pathname": "/assets/photographie-appareil-photo-BOwwCM8M.webp",
+        "path": "/assets/photographie-appareil-photo-BOwwCM8M.webp",
+        "href": "https://nicolasnosal.fr/assets/photographie-appareil-photo-BOwwCM8M.webp"
       },
-      "link": "https://nicolasnosal.fr/media/posts/5/NewYear23-article.jpeg",
-      "line": "--2026-10-25 02:49:43--  https://nicolasnosal.fr/media/posts/5/NewYear23-article.jpeg",
+      "link": "https://nicolasnosal.fr/assets/photographie-appareil-photo-BOwwCM8M.webp",
+      "line": "--2026-11-01 03:52:33--  https://nicolasnosal.fr/assets/photographie-appareil-photo-BOwwCM8M.webp",
       "broken": false
     },
     {
@@ -315,12 +296,12 @@
         "hash": null,
         "search": null,
         "query": null,
-        "pathname": "/media/posts/5/responsive/NewYear23-article-xs.jpeg",
-        "path": "/media/posts/5/responsive/NewYear23-article-xs.jpeg",
-        "href": "https://nicolasnosal.fr/media/posts/5/responsive/NewYear23-article-xs.jpeg"
+        "pathname": "/assets/contact-paysage-lumiere-du-soir-DzpWWkq_.webp",
+        "path": "/assets/contact-paysage-lumiere-du-soir-DzpWWkq_.webp",
+        "href": "https://nicolasnosal.fr/assets/contact-paysage-lumiere-du-soir-DzpWWkq_.webp"
       },
-      "link": "https://nicolasnosal.fr/media/posts/5/responsive/NewYear23-article-xs.jpeg",
-      "line": "--2026-10-25 02:49:43--  https://nicolasnosal.fr/media/posts/5/responsive/NewYear23-article-xs.jpeg",
+      "link": "https://nicolasnosal.fr/assets/contact-paysage-lumiere-du-soir-DzpWWkq_.webp",
+      "line": "--2026-11-01 03:52:33--  https://nicolasnosal.fr/assets/contact-paysage-lumiere-du-soir-DzpWWkq_.webp",
       "broken": false
     },
     {
@@ -334,12 +315,12 @@
         "hash": null,
         "search": null,
         "query": null,
-        "pathname": "/media/posts/5/responsive/NewYear23-article-sm.jpeg",
-        "path": "/media/posts/5/responsive/NewYear23-article-sm.jpeg",
-        "href": "https://nicolasnosal.fr/media/posts/5/responsive/NewYear23-article-sm.jpeg"
+        "pathname": "/confidentialite.html",
+        "path": "/confidentialite.html",
+        "href": "https://nicolasnosal.fr/confidentialite.html"
       },
-      "link": "https://nicolasnosal.fr/media/posts/5/responsive/NewYear23-article-sm.jpeg",
-      "line": "--2026-10-25 02:49:43--  https://nicolasnosal.fr/media/posts/5/responsive/NewYear23-article-sm.jpeg",
+      "link": "https://nicolasnosal.fr/confidentialite.html",
+      "line": "--2026-11-01 03:52:33--  https://nicolasnosal.fr/confidentialite.html",
       "broken": false
     },
     {
@@ -353,411 +334,12 @@
         "hash": null,
         "search": null,
         "query": null,
-        "pathname": "/media/posts/5/responsive/NewYear23-article-md.jpeg",
-        "path": "/media/posts/5/responsive/NewYear23-article-md.jpeg",
-        "href": "https://nicolasnosal.fr/media/posts/5/responsive/NewYear23-article-md.jpeg"
+        "pathname": "/index.html",
+        "path": "/index.html",
+        "href": "https://nicolasnosal.fr/index.html"
       },
-      "link": "https://nicolasnosal.fr/media/posts/5/responsive/NewYear23-article-md.jpeg",
-      "line": "--2026-10-25 02:49:43--  https://nicolasnosal.fr/media/posts/5/responsive/NewYear23-article-md.jpeg",
-      "broken": false
-    },
-    {
-      "url": {
-        "protocol": "https:",
-        "slashes": true,
-        "auth": null,
-        "host": "nicolasnosal.fr",
-        "port": null,
-        "hostname": "nicolasnosal.fr",
-        "hash": null,
-        "search": null,
-        "query": null,
-        "pathname": "/media/posts/5/responsive/NewYear23-article-lg.jpeg",
-        "path": "/media/posts/5/responsive/NewYear23-article-lg.jpeg",
-        "href": "https://nicolasnosal.fr/media/posts/5/responsive/NewYear23-article-lg.jpeg"
-      },
-      "link": "https://nicolasnosal.fr/media/posts/5/responsive/NewYear23-article-lg.jpeg",
-      "line": "--2026-10-25 02:49:44--  https://nicolasnosal.fr/media/posts/5/responsive/NewYear23-article-lg.jpeg",
-      "broken": false
-    },
-    {
-      "url": {
-        "protocol": "https:",
-        "slashes": true,
-        "auth": null,
-        "host": "nicolasnosal.fr",
-        "port": null,
-        "hostname": "nicolasnosal.fr",
-        "hash": null,
-        "search": null,
-        "query": null,
-        "pathname": "/media/posts/5/responsive/NewYear23-article-xl.jpeg",
-        "path": "/media/posts/5/responsive/NewYear23-article-xl.jpeg",
-        "href": "https://nicolasnosal.fr/media/posts/5/responsive/NewYear23-article-xl.jpeg"
-      },
-      "link": "https://nicolasnosal.fr/media/posts/5/responsive/NewYear23-article-xl.jpeg",
-      "line": "--2026-10-25 02:49:44--  https://nicolasnosal.fr/media/posts/5/responsive/NewYear23-article-xl.jpeg",
-      "broken": false
-    },
-    {
-      "url": {
-        "protocol": "https:",
-        "slashes": true,
-        "auth": null,
-        "host": "nicolasnosal.fr",
-        "port": null,
-        "hostname": "nicolasnosal.fr",
-        "hash": null,
-        "search": null,
-        "query": null,
-        "pathname": "/media/posts/5/responsive/NewYear23-article-2xl.jpeg",
-        "path": "/media/posts/5/responsive/NewYear23-article-2xl.jpeg",
-        "href": "https://nicolasnosal.fr/media/posts/5/responsive/NewYear23-article-2xl.jpeg"
-      },
-      "link": "https://nicolasnosal.fr/media/posts/5/responsive/NewYear23-article-2xl.jpeg",
-      "line": "--2026-10-25 02:49:44--  https://nicolasnosal.fr/media/posts/5/responsive/NewYear23-article-2xl.jpeg",
-      "broken": false
-    },
-    {
-      "url": {
-        "protocol": "https:",
-        "slashes": true,
-        "auth": null,
-        "host": "nicolasnosal.fr",
-        "port": null,
-        "hostname": "nicolasnosal.fr",
-        "hash": null,
-        "search": "?v=f4c4d35432d0e17d212f2fae4e0f8247",
-        "query": "v=f4c4d35432d0e17d212f2fae4e0f8247",
-        "pathname": "/assets/js/scripts.min.js",
-        "path": "/assets/js/scripts.min.js?v=f4c4d35432d0e17d212f2fae4e0f8247",
-        "href": "https://nicolasnosal.fr/assets/js/scripts.min.js?v=f4c4d35432d0e17d212f2fae4e0f8247"
-      },
-      "link": "https://nicolasnosal.fr/assets/js/scripts.min.js?v=f4c4d35432d0e17d212f2fae4e0f8247",
-      "line": "--2026-10-25 02:49:44--  https://nicolasnosal.fr/assets/js/scripts.min.js?v=f4c4d35432d0e17d212f2fae4e0f8247",
-      "broken": false
-    },
-    {
-      "url": {
-        "protocol": "https:",
-        "slashes": true,
-        "auth": null,
-        "host": "nicolasnosal.fr",
-        "port": null,
-        "hostname": "nicolasnosal.fr",
-        "hash": null,
-        "search": null,
-        "query": null,
-        "pathname": "/page/3/",
-        "path": "/page/3/",
-        "href": "https://nicolasnosal.fr/page/3/"
-      },
-      "link": "https://nicolasnosal.fr/page/3/",
-      "line": "--2026-10-25 02:49:44--  https://nicolasnosal.fr/page/3/",
-      "broken": false
-    },
-    {
-      "url": {
-        "protocol": "https:",
-        "slashes": true,
-        "auth": null,
-        "host": "nicolasnosal.fr",
-        "port": null,
-        "hostname": "nicolasnosal.fr",
-        "hash": null,
-        "search": null,
-        "query": null,
-        "pathname": "/bonne-annee-2021-3.html",
-        "path": "/bonne-annee-2021-3.html",
-        "href": "https://nicolasnosal.fr/bonne-annee-2021-3.html"
-      },
-      "link": "https://nicolasnosal.fr/bonne-annee-2021-3.html",
-      "line": "--2026-10-25 02:49:45--  https://nicolasnosal.fr/bonne-annee-2021-3.html",
-      "broken": false
-    },
-    {
-      "url": {
-        "protocol": "https:",
-        "slashes": true,
-        "auth": null,
-        "host": "nicolasnosal.fr",
-        "port": null,
-        "hostname": "nicolasnosal.fr",
-        "hash": null,
-        "search": null,
-        "query": null,
-        "pathname": "/media/posts/4/BonneAnnee2022-article-2.jpeg",
-        "path": "/media/posts/4/BonneAnnee2022-article-2.jpeg",
-        "href": "https://nicolasnosal.fr/media/posts/4/BonneAnnee2022-article-2.jpeg"
-      },
-      "link": "https://nicolasnosal.fr/media/posts/4/BonneAnnee2022-article-2.jpeg",
-      "line": "--2026-10-25 02:49:45--  https://nicolasnosal.fr/media/posts/4/BonneAnnee2022-article-2.jpeg",
-      "broken": false
-    },
-    {
-      "url": {
-        "protocol": "https:",
-        "slashes": true,
-        "auth": null,
-        "host": "nicolasnosal.fr",
-        "port": null,
-        "hostname": "nicolasnosal.fr",
-        "hash": null,
-        "search": null,
-        "query": null,
-        "pathname": "/media/posts/4/responsive/BonneAnnee2022-article-2-xs.jpeg",
-        "path": "/media/posts/4/responsive/BonneAnnee2022-article-2-xs.jpeg",
-        "href": "https://nicolasnosal.fr/media/posts/4/responsive/BonneAnnee2022-article-2-xs.jpeg"
-      },
-      "link": "https://nicolasnosal.fr/media/posts/4/responsive/BonneAnnee2022-article-2-xs.jpeg",
-      "line": "--2026-10-25 02:49:45--  https://nicolasnosal.fr/media/posts/4/responsive/BonneAnnee2022-article-2-xs.jpeg",
-      "broken": false
-    },
-    {
-      "url": {
-        "protocol": "https:",
-        "slashes": true,
-        "auth": null,
-        "host": "nicolasnosal.fr",
-        "port": null,
-        "hostname": "nicolasnosal.fr",
-        "hash": null,
-        "search": null,
-        "query": null,
-        "pathname": "/media/posts/4/responsive/BonneAnnee2022-article-2-sm.jpeg",
-        "path": "/media/posts/4/responsive/BonneAnnee2022-article-2-sm.jpeg",
-        "href": "https://nicolasnosal.fr/media/posts/4/responsive/BonneAnnee2022-article-2-sm.jpeg"
-      },
-      "link": "https://nicolasnosal.fr/media/posts/4/responsive/BonneAnnee2022-article-2-sm.jpeg",
-      "line": "--2026-10-25 02:49:45--  https://nicolasnosal.fr/media/posts/4/responsive/BonneAnnee2022-article-2-sm.jpeg",
-      "broken": false
-    },
-    {
-      "url": {
-        "protocol": "https:",
-        "slashes": true,
-        "auth": null,
-        "host": "nicolasnosal.fr",
-        "port": null,
-        "hostname": "nicolasnosal.fr",
-        "hash": null,
-        "search": null,
-        "query": null,
-        "pathname": "/media/posts/4/responsive/BonneAnnee2022-article-2-md.jpeg",
-        "path": "/media/posts/4/responsive/BonneAnnee2022-article-2-md.jpeg",
-        "href": "https://nicolasnosal.fr/media/posts/4/responsive/BonneAnnee2022-article-2-md.jpeg"
-      },
-      "link": "https://nicolasnosal.fr/media/posts/4/responsive/BonneAnnee2022-article-2-md.jpeg",
-      "line": "--2026-10-25 02:49:45--  https://nicolasnosal.fr/media/posts/4/responsive/BonneAnnee2022-article-2-md.jpeg",
-      "broken": false
-    },
-    {
-      "url": {
-        "protocol": "https:",
-        "slashes": true,
-        "auth": null,
-        "host": "nicolasnosal.fr",
-        "port": null,
-        "hostname": "nicolasnosal.fr",
-        "hash": null,
-        "search": null,
-        "query": null,
-        "pathname": "/media/posts/4/responsive/BonneAnnee2022-article-2-lg.jpeg",
-        "path": "/media/posts/4/responsive/BonneAnnee2022-article-2-lg.jpeg",
-        "href": "https://nicolasnosal.fr/media/posts/4/responsive/BonneAnnee2022-article-2-lg.jpeg"
-      },
-      "link": "https://nicolasnosal.fr/media/posts/4/responsive/BonneAnnee2022-article-2-lg.jpeg",
-      "line": "--2026-10-25 02:49:46--  https://nicolasnosal.fr/media/posts/4/responsive/BonneAnnee2022-article-2-lg.jpeg",
-      "broken": false
-    },
-    {
-      "url": {
-        "protocol": "https:",
-        "slashes": true,
-        "auth": null,
-        "host": "nicolasnosal.fr",
-        "port": null,
-        "hostname": "nicolasnosal.fr",
-        "hash": null,
-        "search": null,
-        "query": null,
-        "pathname": "/media/posts/4/responsive/BonneAnnee2022-article-2-xl.jpeg",
-        "path": "/media/posts/4/responsive/BonneAnnee2022-article-2-xl.jpeg",
-        "href": "https://nicolasnosal.fr/media/posts/4/responsive/BonneAnnee2022-article-2-xl.jpeg"
-      },
-      "link": "https://nicolasnosal.fr/media/posts/4/responsive/BonneAnnee2022-article-2-xl.jpeg",
-      "line": "--2026-10-25 02:49:46--  https://nicolasnosal.fr/media/posts/4/responsive/BonneAnnee2022-article-2-xl.jpeg",
-      "broken": false
-    },
-    {
-      "url": {
-        "protocol": "https:",
-        "slashes": true,
-        "auth": null,
-        "host": "nicolasnosal.fr",
-        "port": null,
-        "hostname": "nicolasnosal.fr",
-        "hash": null,
-        "search": null,
-        "query": null,
-        "pathname": "/media/posts/4/responsive/BonneAnnee2022-article-2-2xl.jpeg",
-        "path": "/media/posts/4/responsive/BonneAnnee2022-article-2-2xl.jpeg",
-        "href": "https://nicolasnosal.fr/media/posts/4/responsive/BonneAnnee2022-article-2-2xl.jpeg"
-      },
-      "link": "https://nicolasnosal.fr/media/posts/4/responsive/BonneAnnee2022-article-2-2xl.jpeg",
-      "line": "--2026-10-25 02:49:46--  https://nicolasnosal.fr/media/posts/4/responsive/BonneAnnee2022-article-2-2xl.jpeg",
-      "broken": false
-    },
-    {
-      "url": {
-        "protocol": "https:",
-        "slashes": true,
-        "auth": null,
-        "host": "nicolasnosal.fr",
-        "port": null,
-        "hostname": "nicolasnosal.fr",
-        "hash": null,
-        "search": null,
-        "query": null,
-        "pathname": "/bonne-annee-2021-2.html",
-        "path": "/bonne-annee-2021-2.html",
-        "href": "https://nicolasnosal.fr/bonne-annee-2021-2.html"
-      },
-      "link": "https://nicolasnosal.fr/bonne-annee-2021-2.html",
-      "line": "--2026-10-25 02:49:46--  https://nicolasnosal.fr/bonne-annee-2021-2.html",
-      "broken": false
-    },
-    {
-      "url": {
-        "protocol": "https:",
-        "slashes": true,
-        "auth": null,
-        "host": "nicolasnosal.fr",
-        "port": null,
-        "hostname": "nicolasnosal.fr",
-        "hash": null,
-        "search": null,
-        "query": null,
-        "pathname": "/media/posts/3/01-20210107-IMG_0138-compo-newyear_en_2021.png",
-        "path": "/media/posts/3/01-20210107-IMG_0138-compo-newyear_en_2021.png",
-        "href": "https://nicolasnosal.fr/media/posts/3/01-20210107-IMG_0138-compo-newyear_en_2021.png"
-      },
-      "link": "https://nicolasnosal.fr/media/posts/3/01-20210107-IMG_0138-compo-newyear_en_2021.png",
-      "line": "--2026-10-25 02:49:46--  https://nicolasnosal.fr/media/posts/3/01-20210107-IMG_0138-compo-newyear_en_2021.png",
-      "broken": false
-    },
-    {
-      "url": {
-        "protocol": "https:",
-        "slashes": true,
-        "auth": null,
-        "host": "nicolasnosal.fr",
-        "port": null,
-        "hostname": "nicolasnosal.fr",
-        "hash": null,
-        "search": null,
-        "query": null,
-        "pathname": "/media/posts/3/responsive/01-20210107-IMG_0138-compo-newyear_en_2021-xs.png",
-        "path": "/media/posts/3/responsive/01-20210107-IMG_0138-compo-newyear_en_2021-xs.png",
-        "href": "https://nicolasnosal.fr/media/posts/3/responsive/01-20210107-IMG_0138-compo-newyear_en_2021-xs.png"
-      },
-      "link": "https://nicolasnosal.fr/media/posts/3/responsive/01-20210107-IMG_0138-compo-newyear_en_2021-xs.png",
-      "line": "--2026-10-25 02:49:47--  https://nicolasnosal.fr/media/posts/3/responsive/01-20210107-IMG_0138-compo-newyear_en_2021-xs.png",
-      "broken": false
-    },
-    {
-      "url": {
-        "protocol": "https:",
-        "slashes": true,
-        "auth": null,
-        "host": "nicolasnosal.fr",
-        "port": null,
-        "hostname": "nicolasnosal.fr",
-        "hash": null,
-        "search": null,
-        "query": null,
-        "pathname": "/media/posts/3/responsive/01-20210107-IMG_0138-compo-newyear_en_2021-sm.png",
-        "path": "/media/posts/3/responsive/01-20210107-IMG_0138-compo-newyear_en_2021-sm.png",
-        "href": "https://nicolasnosal.fr/media/posts/3/responsive/01-20210107-IMG_0138-compo-newyear_en_2021-sm.png"
-      },
-      "link": "https://nicolasnosal.fr/media/posts/3/responsive/01-20210107-IMG_0138-compo-newyear_en_2021-sm.png",
-      "line": "--2026-10-25 02:49:47--  https://nicolasnosal.fr/media/posts/3/responsive/01-20210107-IMG_0138-compo-newyear_en_2021-sm.png",
-      "broken": false
-    },
-    {
-      "url": {
-        "protocol": "https:",
-        "slashes": true,
-        "auth": null,
-        "host": "nicolasnosal.fr",
-        "port": null,
-        "hostname": "nicolasnosal.fr",
-        "hash": null,
-        "search": null,
-        "query": null,
-        "pathname": "/media/posts/3/responsive/01-20210107-IMG_0138-compo-newyear_en_2021-md.png",
-        "path": "/media/posts/3/responsive/01-20210107-IMG_0138-compo-newyear_en_2021-md.png",
-        "href": "https://nicolasnosal.fr/media/posts/3/responsive/01-20210107-IMG_0138-compo-newyear_en_2021-md.png"
-      },
-      "link": "https://nicolasnosal.fr/media/posts/3/responsive/01-20210107-IMG_0138-compo-newyear_en_2021-md.png",
-      "line": "--2026-10-25 02:49:47--  https://nicolasnosal.fr/media/posts/3/responsive/01-20210107-IMG_0138-compo-newyear_en_2021-md.png",
-      "broken": false
-    },
-    {
-      "url": {
-        "protocol": "https:",
-        "slashes": true,
-        "auth": null,
-        "host": "nicolasnosal.fr",
-        "port": null,
-        "hostname": "nicolasnosal.fr",
-        "hash": null,
-        "search": null,
-        "query": null,
-        "pathname": "/media/posts/3/responsive/01-20210107-IMG_0138-compo-newyear_en_2021-lg.png",
-        "path": "/media/posts/3/responsive/01-20210107-IMG_0138-compo-newyear_en_2021-lg.png",
-        "href": "https://nicolasnosal.fr/media/posts/3/responsive/01-20210107-IMG_0138-compo-newyear_en_2021-lg.png"
-      },
-      "link": "https://nicolasnosal.fr/media/posts/3/responsive/01-20210107-IMG_0138-compo-newyear_en_2021-lg.png",
-      "line": "--2026-10-25 02:49:47--  https://nicolasnosal.fr/media/posts/3/responsive/01-20210107-IMG_0138-compo-newyear_en_2021-lg.png",
-      "broken": false
-    },
-    {
-      "url": {
-        "protocol": "https:",
-        "slashes": true,
-        "auth": null,
-        "host": "nicolasnosal.fr",
-        "port": null,
-        "hostname": "nicolasnosal.fr",
-        "hash": null,
-        "search": null,
-        "query": null,
-        "pathname": "/media/posts/3/responsive/01-20210107-IMG_0138-compo-newyear_en_2021-xl.png",
-        "path": "/media/posts/3/responsive/01-20210107-IMG_0138-compo-newyear_en_2021-xl.png",
-        "href": "https://nicolasnosal.fr/media/posts/3/responsive/01-20210107-IMG_0138-compo-newyear_en_2021-xl.png"
-      },
-      "link": "https://nicolasnosal.fr/media/posts/3/responsive/01-20210107-IMG_0138-compo-newyear_en_2021-xl.png",
-      "line": "--2026-10-25 02:49:47--  https://nicolasnosal.fr/media/posts/3/responsive/01-20210107-IMG_0138-compo-newyear_en_2021-xl.png",
-      "broken": false
-    },
-    {
-      "url": {
-        "protocol": "https:",
-        "slashes": true,
-        "auth": null,
-        "host": "nicolasnosal.fr",
-        "port": null,
-        "hostname": "nicolasnosal.fr",
-        "hash": null,
-        "search": null,
-        "query": null,
-        "pathname": "/media/posts/3/responsive/01-20210107-IMG_0138-compo-newyear_en_2021-2xl.png",
-        "path": "/media/posts/3/responsive/01-20210107-IMG_0138-compo-newyear_en_2021-2xl.png",
-        "href": "https://nicolasnosal.fr/media/posts/3/responsive/01-20210107-IMG_0138-compo-newyear_en_2021-2xl.png"
-      },
-      "link": "https://nicolasnosal.fr/media/posts/3/responsive/01-20210107-IMG_0138-compo-newyear_en_2021-2xl.png",
-      "line": "--2026-10-25 02:49:47--  https://nicolasnosal.fr/media/posts/3/responsive/01-20210107-IMG_0138-compo-newyear_en_2021-2xl.png",
+      "link": "https://nicolasnosal.fr/index.html",
+      "line": "--2026-11-01 03:52:33--  https://nicolasnosal.fr/index.html",
       "broken": false
     }
   ],

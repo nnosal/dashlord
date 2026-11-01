@@ -9,12 +9,13 @@
     "testsPassed": 6,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 25 Oct 2026 02:50:43 GMT",
+      "date": "Sun, 01 Nov 2026 03:53:25 GMT",
       "content-type": "text/html",
       "transfer-encoding": "chunked",
       "connection": "close",
       "vary": "Accept-Encoding",
-      "last-modified": "Fri, 13 Jan 2023 15:40:48 GMT",
+      "last-modified": "Thu, 29 Oct 2026 19:11:56 GMT",
+      "cache-control": "no-cache",
       "server": "o2switch-PowerBoost-v3"
     }
   },
