@@ -6,7 +6,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://openstats.webservice-est.fr/matomo.php?action_name=Nicolas%20Nosal%20%7C%20Strat%C3%A9gie%20digitale%20%26%20architecture%20technologique&idsite=3&rec=1&r=942048&h=3&m=51&s=57&url=https%3A%2F%2Fnicolasnosal.fr%2F&_id=&_idn=1&send_image=0&_refts=0&pv_id=e39D0F&pf_net=379&pf_srv=141&pf_tfr=117&pf_dm1=183&uadata=%7B%22formFactors%22%3A%5B%22Desktop%22%5D%2C%22fullVersionList%22%3A%5B%7B%22brand%22%3A%22Not%2FA)Brand%22%2C%22version%22%3A%2299.0.0.0%22%7D%2C%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%22148.0.7778.97%22%7D%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22Linux%22%2C%22platformVersion%22%3A%22%22%7D&pdf=1&qt=0&realp=0&wma=0&fla=0&java=0&ag=0&cookie=1&res=800x600"
+      "url": "https://openstats.webservice-est.fr/matomo.php?action_name=Nicolas%20Nosal%20%7C%20Strat%C3%A9gie%20digitale%20%26%20architecture%20technologique&idsite=3&rec=1&r=976579&h=3&m=55&s=51&url=https%3A%2F%2Fnicolasnosal.fr%2F&_id=&_idn=1&send_image=0&_refts=0&pv_id=qjMLby&pf_net=469&pf_srv=174&pf_tfr=154&pf_dm1=204&uadata=%7B%22formFactors%22%3A%5B%22Desktop%22%5D%2C%22fullVersionList%22%3A%5B%7B%22brand%22%3A%22Not%2FA)Brand%22%2C%22version%22%3A%2299.0.0.0%22%7D%2C%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%22148.0.7778.97%22%7D%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22Linux%22%2C%22platformVersion%22%3A%22%22%7D&pdf=1&qt=0&realp=0&wma=0&fla=0&java=0&ag=0&cookie=1&res=800x600"
     }
   ],
   "cookies": [],
@@ -14,7 +14,7 @@
     "cache-control": "no-cache",
     "content-encoding": "br",
     "content-type": "text/html",
-    "date": "Sun, 01 Nov 2026 03:51:56 GMT",
+    "date": "Sun, 08 Nov 2026 03:55:50 GMT",
     "last-modified": "Thu, 29 Oct 2026 19:11:56 GMT",
     "server": "o2switch-PowerBoost-v3",
     "vary": "Accept-Encoding"

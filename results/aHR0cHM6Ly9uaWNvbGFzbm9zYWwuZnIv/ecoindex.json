@@ -3,7 +3,7 @@
         "width": 1920,
         "height": 1080,
         "url": "https://nicolasnosal.fr/",
-        "size": 1346.3,
+        "size": 1346.317,
         "nodes": 526,
         "requests": 15,
         "grade": "C",
@@ -11,7 +11,7 @@
         "ges": 1.66,
         "water": 2.49,
         "ecoindex_version": "5.4.2",
-        "date": "2026-11-01 03:52:29.385711",
+        "date": "2026-11-08 03:56:31.305149",
         "page_type": "profile"
     }
 ]
